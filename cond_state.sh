@@ -1,7 +1,6 @@
 #! /bin/bash
-IF AND ELSE OPERATOR
 
-count=7 
+count=10 
 
 if [ $count -eq 10 ]
 then
@@ -12,9 +11,9 @@ else
  echo "The condition is false"
 fi
 
-AND OPERATOR
+#! /bin/bash
 
-age=35
+age=45
 
 if [ "$age" -gt 10 ] && [ "$age" -lt 40 ]
  
@@ -26,9 +25,9 @@ else
  echo "Doesnt meet criteria"
 fi
 
-OR OPERATOR
+#! /bin/bash
 
-age=7
+age=47
 
 if [ "$age" -gt 10 ] || [ "$age" -lt 40 ]
  

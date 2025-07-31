@@ -45,7 +45,7 @@ c=$st1$st2
   echo $c
   
  #! /bin/bash
-#lowe and upper case conversion
+#lower and upper case conversion
     echo "enter 1st string"
 read st1
     echo "enter 2nd string"

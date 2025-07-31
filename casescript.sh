@@ -1,5 +1,6 @@
-$ cat signal.sh
 #!/bin/bash
+
+$ cat signal.sh
 
 if [ $# -lt 2 ]
 then

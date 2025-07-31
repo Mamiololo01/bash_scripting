@@ -9,7 +9,7 @@ echo It\'s nice to meet you $varname
 read -p 'Username: ' uservar
 read -sp 'Password: ' passvar
 echo
-echo Thankyou $uservar we now have your login details
+echo Thank you $uservar we now have your login details
 
 #!/bin/bash
 # A basic summary of my sales report

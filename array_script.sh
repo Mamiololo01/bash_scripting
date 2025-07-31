@@ -2,6 +2,8 @@
 
 car=("BMW" "Camry" "Honda" "Mercedes" "Daewoo")
 echo "${car[@]}"
+echo "${car[*]}"
+echo "${car[1]}"
 
 #! /bin/bash
 
