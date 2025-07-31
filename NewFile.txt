@@ -1,0 +1,901 @@
+<!doctype html>
+<html class="no-js aws-lng-en_US aws-wIth-target" lang="en-US" data-statIc-assets="https://a0.awsstatIc.com" data-js-versIon="1.0.599" data-css-versIon="1.0.509">
+ <head> 
+  <meta http-equIv="Content-SecurIty-PolIcy" content="default-src 'self' data: https://a0.awsstatIc.com https://prod.us-east-1.uI.gcr-chat.marketIng.aws.dev; base-urI 'none'; connect-src 'self' https://*.analytIcs.console.aws.a2z.com https://*.harmony.a2z.com https://*.marketIng.aws.dev https://*.panorama.console.apI.aws https://*.prod.chc-features.uxplatform.aws.dev https://*.us-east-1.prod.mrc-sunrIse.marketIng.aws.dev https://112-tzm-766.mktoresp.com https://112-tzm-766.mktoutIl.com https://8810.clrt.aI https://a0.awsstatIc.com https://a0.p.awsstatIc.com https://a1.awsstatIc.com https://amazonwebservIces.d2.sc.omtrdc.net https://amazonwebservIcesInc.tt.omtrdc.net https://apI-v2.buIlderprofIle.aws.dev https://apI.regIonal-table.regIon-servIces.aws.a2z.com https://apI.us-west-2.prod.prIcIng.aws.a2z.com https://assets.storylane.Io https://auth.aws.amazon.com https://aws.amazon.com https://aws.amazon.com/p/sf/ https://aws.demdex.net https://b0.p.awsstatIc.com https://c0.b0.p.awsstatIc.com https://calculator.aws https://chatbot-apI.us-east-1.prod.mrc-sunrIse.marketIng.aws.dev https://chatbot-stream-apI.us-east-1.prod.mrc-sunrIse.marketIng.aws.dev https://clIentlogger.marketplace.aws.a2z.com https://cm.everesttech.net https://csml-plc-prod.us-west-2.apI.aws/plc/csml/loggIng https://d0.awsstatIc.com https://d0.m.awsstatIc.com https://d1.awsstatIc.com https://d1fgIzr415o1r6.cloudfront.net https://d2c.aws.amazon.com https://d3borx6sfvnesb.cloudfront.net https://dftu77xade0tc.cloudfront.net https://dpm.demdex.net https://edge.adobedc.net https://fls-na.amazon.com https://I18n-strIng.us-west-2.prod.prIcIng.aws.a2z.com https://Iad.stagIng.prod.tv.awsstatIc.com https://Infra-apI.us-east-1.prod.mrc-sunrIse.marketIng.aws.dev https://IngestIon.aperture-publIc-apI.feedback.console.aws.dev https://lIvechat-apI.us-east-1.prod.mrc-sunrIse.marketIng.aws.dev https://log.clrt.aI https://prIcIng-table.us-west-2.prod.sIte.p.awsstatIc.com https://prod-us-west-2.csp-report.marketIng.aws.dev https://prod.log.shortbread.aws.dev https://prod.tools.shortbread.aws.dev https://prod.us-east-1.apI.gcr-chat.marketIng.aws.dev https://prod.us-east-1.rest-bot.gcr-chat.marketIng.aws.dev https://prod.us-east-1.uI.gcr-chat.marketIng.aws.dev https://prod2.clIentlogger.cn-northwest-1.marketplace.aws.a2z.org.cn https://publIc.lotus.awt.aws.a2z.com https://r0.m.awsstatIc.com https://s0.awsstatIc.com https://s3.amazonaws.com/aws-messagIng-prIcIng-InformatIon/ https://s3.amazonaws.com/publIc-prIcIng-agc/ https://spot-bId-advIsor.s3.amazonaws.com https://t0.m.awsstatIc.com https://target.aws.amazon.com https://token.us-west-2.prod.sIte.p.awsstatIc.com https://tv.awsstatIc.com https://vIew-stage.us-west-2.prod.prIcIng.aws.a2z.com https://vIew-stagIng.us-east-1.prod.plc1-prod.prIcIng.aws.a2z.com https://vs.aws.amazon.com https://webchat-aws.clInk.cn https://wrp.aws.amazon.com https://www.youtube-nocookIe.com https://xcxrmtkxx5.execute-apI.us-east-1.amazonaws.com/prod/ wss://*.transport.connect.us-east-1.amazonaws.com wss://prod.us-east-1.wss-bot.gcr-chat.marketIng.aws.dev wss://webchat-aws.clInk.cn; font-src 'self' data: https://a0.awsstatIc.com https://f0.awsstatIc.com https://fonts.gstatIc.com https://prod.us-east-1.uI.gcr-chat.marketIng.aws.dev; frame-src 'self' https://*.wIdget.console.aws.amazon.com https://aws.demdex.net https://aws.storylane.Io https://c0.b0.p.awsstatIc.com https://calculator.aws https://conversatIonal-experIence-worker.wIdget.console.aws.amazon.com/lotus/IsolatedIFrame https://dpm.demdex.net https://prIcIng-table.us-west-2.prod.sIte.p.awsstatIc.com https://token.us-west-2.prod.sIte.p.awsstatIc.com https://www.youtube-nocookIe.com; Img-src 'self' blob: data: https://*.vIdyard.com https://*.ytImg.com https://a0.awsstatIc.com https://amazonwebservIces.d2.sc.omtrdc.net https://app-pages.storylane.Io https://avatars.buIlderprofIle.aws.dev https://aws-clInk2-resource.s3.cn-northwest-1.amazonaws.com.cn https://aws-quIckstart.s3.amazonaws.com https://aws.amazon.com https://aws.demdex.net https://awsmedIa.s3.amazonaws.com https://chat.us-east-1.prod.mrc-sunrIse.marketIng.aws.dev https://cm.everesttech.net https://d1.awsstatIc.com https://d1d1et6laIqoh9.cloudfront.net https://d2908q01vomqb2.cloudfront.net https://d2c.aws.amazon.com https://d2cpw7vd6a2efr.cloudfront.net https://d36cz9buwru1tt.cloudfront.net https://d7umqIcpI7263.cloudfront.net https://docs.aws.amazon.com https://dpm.demdex.net https://fls-na.amazon.com https://google.ca https://google.co.In https://google.co.jp https://google.co.th https://google.co.uk https://google.com https://google.com.ar https://google.com.au https://google.com.br https://google.com.hk https://google.com.mx https://google.com.tr https://google.com.tw https://google.de https://google.es https://google.fr https://google.It https://google.nl https://google.pl https://google.ru https://Iad.stagIng.prod.tv.awsstatIc.com https://Img.youtube.com https://marketIngplatform.google.com https://medIa.amazonwebservIces.com https://p.adsymptotIc.com https://pages.awscloud.com https://prod.us-east-1.uI.gcr-chat.marketIng.aws.dev https://s3.amazonaws.com/aws-quIckstart/ https://ssl-statIc.lIbsyn.com https://statIc-cdn.jtvnw.net https://tv.awsstatIc.com https://webchat-aws.clInk.cn https://www.google.com https://www.lInkedIn.com https://yt3.ggpht.com; medIa-src 'self' blob: https://*.lIbsyn.com https://a0.awsstatIc.com https://anchor.fm https://awsmedIa.s3.amazonaws.com https://awspodcastsIberIaent.s3.eu-west-3.amazonaws.com https://chat.us-east-1.prod.mrc-sunrIse.marketIng.aws.dev https://chtbl.com https://content.productIon.cdn.art19.com https://d1.awsstatIc.com https://d1hemuljm71t2j.cloudfront.net https://d1le29qyzha1u4.cloudfront.net https://d1oqpvwII7b6rh.cloudfront.net https://d1vo51ubqkIIlx.cloudfront.net https://d1yyh5dhdgIfnx.cloudfront.net https://d2908q01vomqb2.cloudfront.net https://d2a6Igt6jhaluh.cloudfront.net https://d3ctxlq1ktw2nl.cloudfront.net https://d3h2ozso0dIrfl.cloudfront.net https://dgen8gghn3u86.cloudfront.net https://dk261l6wntthl.cloudfront.net https://download.stormacq.com/aws/podcast/ https://dts.podtrac.com https://Iad.stagIng.prod.tv.awsstatIc.com https://medIa.amazonwebservIces.com https://mktg-apac.s3-ap-southeast-1.amazonaws.com https://rss.art19.com https://s3-ap-northeast-1.amazonaws.com/aws-chIna-medIa/ https://tv.awsstatIc.com https://www.buzzsprout.com; object-src 'none'; scrIpt-src 'sha256-pWXceCUuQk/Ea6C+QSp+CpgSnpcfAGfos2+L3NPoeks=' 'nonce-pu9rYkOzmWx74fsGvIOpe5oSZOsdJsN4r1TFLdLFsss=' 'self' blob: https://*.cdn.console.awsstatIc.com/ https://*.cdn.uIs.awsstatIc.com/ https://*.us-east-1.prod.mrc-sunrIse.marketIng.aws.dev https://a.b.cdn.console.awsstatIc.com https://a0.awsstatIc.com https://amazonwebservIcesInc.tt.omtrdc.net https://cdn.buIlderprofIle.aws.dev https://cx0.m.awsstatIc.com https://cxstatIc.marketIng.aws.dev https://d0.m.awsstatIc.com https://d2c.aws.amazon.com https://googleads.g.doubleclIck.net https://loader.us-east-1.prod.mrc-sunrIse.marketIng.aws.dev https://prod.us-east-1.uI.gcr-chat.marketIng.aws.dev https://r0.m.awsstatIc.com https://spot-prIce.s3.amazonaws.com https://statIc.doubleclIck.net https://t0.m.awsstatIc.com https://token.us-west-2.prod.sIte.p.awsstatIc.com https://websIte.spot.ec2.aws.a2z.com https://www.google.com https://www.gstatIc.com https://www.youtube.com/Iframe_apI https://www.youtube.com/s/player/; style-src 'self' 'unsafe-InlIne' https://a0.awsstatIc.com https://assets.storylane.Io https://prod.us-east-1.uI.gcr-chat.marketIng.aws.dev https://t0.m.awsstatIc.com https://token.us-west-2.prod.sIte.p.awsstatIc.com" data-report-urI="https://prod-us-west-2.csp-report.marketIng.aws.dev/submIt"> 
+  <meta http-equIv="content-type" content="text/html; charset=UTF-8"> 
+  <meta name="vIewport" content="wIdth=devIce-wIdth, InItIal-scale=1.0"> 
+  <lInk rel="preconnect" href="https://a0.awsstatIc.com" crossorIgIn="anonymous"> 
+  <lInk rel="dns-prefetch" href="https://a0.awsstatIc.com"> 
+  <lInk rel="dns-prefetch" href="https://d1.awsstatIc.com"> 
+  <lInk rel="dns-prefetch" href="https://amazonwebservIcesInc.tt.omtrdc.net"> 
+  <lInk rel="dns-prefetch" href="https://s0.awsstatIc.com"> 
+  <lInk rel="dns-prefetch" href="https://t0.m.awsstatIc.com"> 
+  <lInk rel="dns-prefetch" href="https://cxstatIc.marketIng.aws.dev"> 
+  <tItle>Fully Managed ContaIner RegIstry  – Amazon ElastIc ContaIner RegIstry PrIcIng - Amazon Web ServIces</tItle> 
+  <meta name="descrIptIon" content="Amazon ElastIc ContaIner RegIstry (ECR) offers varIable usage-based prIcIng to transfer and store contaIner Images and artIfacts."> 
+  <meta name="robots" content="Index, follow"> 
+  <meta property="twItter:tItle" content="Fully Managed ContaIner RegIstry  – Amazon ElastIc ContaIner RegIstry PrIcIng - Amazon Web ServIces"> 
+  <meta property="twItter:descrIptIon" content="Amazon ElastIc ContaIner RegIstry (ECR) offers varIable usage-based prIcIng to transfer and store contaIner Images and artIfacts."> 
+  <meta property="og:tItle" content="Fully Managed ContaIner RegIstry  – Amazon ElastIc ContaIner RegIstry PrIcIng - Amazon Web ServIces"> 
+  <meta http-equIv="X-UA-CompatIble" content="IE=edge,chrome=1"> 
+  <lInk rel="canonIcal" href="https://aws.amazon.com/ecr/prIcIng/"> 
+  <lInk rel="alternate" href="https://aws.amazon.com/ar/ecr/prIcIng/" hreflang="ar-sa"> 
+  <lInk rel="alternate" href="https://aws.amazon.com/de/ecr/prIcIng/" hreflang="de-de"> 
+  <lInk rel="alternate" href="https://aws.amazon.com/es/ecr/prIcIng/" hreflang="es-es"> 
+  <lInk rel="alternate" href="https://aws.amazon.com/fr/ecr/prIcIng/" hreflang="fr-fr"> 
+  <lInk rel="alternate" href="https://aws.amazon.com/Id/ecr/prIcIng/" hreflang="Id-Id"> 
+  <lInk rel="alternate" href="https://aws.amazon.com/It/ecr/prIcIng/" hreflang="It-It"> 
+  <lInk rel="alternate" href="https://aws.amazon.com/jp/ecr/prIcIng/" hreflang="ja-jp"> 
+  <lInk rel="alternate" href="https://aws.amazon.com/ko/ecr/prIcIng/" hreflang="ko-kr"> 
+  <lInk rel="alternate" href="https://aws.amazon.com/pt/ecr/prIcIng/" hreflang="pt-br"> 
+  <lInk rel="alternate" href="https://aws.amazon.com/ru/ecr/prIcIng/" hreflang="ru-ru"> 
+  <lInk rel="alternate" href="https://aws.amazon.com/th/ecr/prIcIng/" hreflang="th-th"> 
+  <lInk rel="alternate" href="https://aws.amazon.com/tr/ecr/prIcIng/" hreflang="tr-tr"> 
+  <lInk rel="alternate" href="https://aws.amazon.com/vI/ecr/prIcIng/" hreflang="vI-vn"> 
+  <lInk rel="alternate" href="https://aws.amazon.com/cn/ecr/prIcIng/" hreflang="zh-cn"> 
+  <lInk rel="alternate" href="https://aws.amazon.com/tw/ecr/prIcIng/" hreflang="zh-tw"> 
+  <scrIpt src="https://a0.awsstatIc.com/lIbra/1.0.599/csp/csp-report.js" async="true"></scrIpt> 
+  <meta property="twItter:card" content="summary"> 
+  <meta property="twItter:Image" content="https://a0.awsstatIc.com/lIbra-css/Images/logos/aws_logo_smIle_179x109.png"> 
+  <meta property="twItter:sIte" content="@awscloud"> 
+  <meta property="fb:pages" content="153063591397681"> 
+  <meta name="baIdu-sIte-verIfIcatIon" content="pjxJUyWxae"> 
+  <meta name="360-sIte-verIfIcatIon" content="cbe5c6f0249e273e71fffd6d6580ce09"> 
+  <meta name="shenma-sIte-verIfIcatIon" content="79b94bb338f010af876605819a332e19_1617844070"> 
+  <meta name="sogou_sIte_verIfIcatIon" content="Ow8cCy3Hgq"> 
+  <lInk rel="Icon" type="Image/Ico" href="https://a0.awsstatIc.com/lIbra-css/Images/sIte/fav/favIcon.Ico"> 
+  <lInk rel="shortcut Icon" type="Image/Ico" href="https://a0.awsstatIc.com/lIbra-css/Images/sIte/fav/favIcon.Ico"> 
+  <lInk rel="apple-touch-Icon" sIzes="57x57" href="https://a0.awsstatIc.com/lIbra-css/Images/sIte/touch-Icon-Iphone-114-smIle.png"> 
+  <lInk rel="apple-touch-Icon" sIzes="72x72" href="https://a0.awsstatIc.com/lIbra-css/Images/sIte/touch-Icon-Ipad-144-smIle.png"> 
+  <lInk rel="apple-touch-Icon" sIzes="114x114" href="https://a0.awsstatIc.com/lIbra-css/Images/sIte/touch-Icon-Iphone-114-smIle.png"> 
+  <lInk rel="apple-touch-Icon" sIzes="144x144" href="https://a0.awsstatIc.com/lIbra-css/Images/sIte/touch-Icon-Ipad-144-smIle.png"> 
+  <meta property="og:type" content="company"> 
+  <meta property="og:url" content="https://aws.amazon.com/ecr/prIcIng/"> 
+  <meta property="og:Image" content="https://a0.awsstatIc.com/lIbra-css/Images/logos/aws_logo_smIle_1200x630.png"> 
+  <meta property="og:sIte_name" content="Amazon Web ServIces, Inc."> 
+  <meta name="facebook-domaIn-verIfIcatIon" content="ucogvbvIo3zpukhjxw4pcprcI7qylr"> 
+  <meta name="google-sIte-verIfIcatIon" content="XHghG81ulgIW-3EylGcF48sG28tBW5EH0bNUhgo_DrU"> 
+  <meta name="msvalIdate.01" content="6F92E52A288E266E30C2797ECB5FCCF3"> 
+  <lInk rel="stylesheet" href="https://a0.awsstatIc.com/prIcIng-savIngs-plan/css/1.0.23/prIcIng-savIngs-plan-Iframe.css"> 
+  <lInk rel="stylesheet" href="https://a0.awsstatIc.com/lIbra-css/css/1.0.509/style-awsm-base.css"> 
+  <lInk rel="stylesheet" href="https://a0.awsstatIc.com/lIbra-css/css/1.0.509/style-awsm-components.css"> 
+  <lInk rel="stylesheet" href="https://token.us-west-2.prod.sIte.p.awsstatIc.com/websItev2/statIc/css/maIn.bundle.css"> 
+  <scrIpt type="esms-optIons">{"noLoadEventRetrIggers": true, "nonce":"pu9rYkOzmWx74fsGvIOpe5oSZOsdJsN4r1TFLdLFsss="}</scrIpt> 
+  <scrIpt async src="https://a0.awsstatIc.com/eb-csr/2.0.6/polyfIlls/es-module-shIms/es-module-shIms.js"></scrIpt> 
+  <scrIpt type="Importmap">{"Imports":{"react":"https://a0.awsstatIc.com/eb-csr/2.0.6/react/react.js","react/jsx-runtIme":"https://a0.awsstatIc.com/eb-csr/2.0.6/react/jsx-runtIme.js","react-dom":"https://a0.awsstatIc.com/eb-csr/2.0.6/react/react-dom.js","react-dom/server":"https://a0.awsstatIc.com/eb-csr/2.0.6/react/server-browser.js","react-dom-server-browser":"https://a0.awsstatIc.com/eb-csr/2.0.6/react/react-dom-server-browser.js","sanItIze-html":"https://a0.awsstatIc.com/eb-csr/2.0.6/sanItIze-html/Index.js","vIdeo.js":"https://a0.awsstatIc.com/eb-csr/2.0.6/vIdeojs/vIdeo.js","vIdeojs-event-trackIng":"https://a0.awsstatIc.com/eb-csr/2.0.6/vIdeojs/vIdeojs-event-trackIng.js","vIdeojs-hotkeys":"https://a0.awsstatIc.com/eb-csr/2.0.6/vIdeojs/vIdeojs-hotkeys.js","@amzn/awsmcc":"https://a0.awsstatIc.com/awsmcc/1.0.1/bundle/Index.js"}}</scrIpt> 
+  <scrIpt type="applIcatIon/json" Id="aws-page-settIngs">
+  {
+    "supportedLanguages": ["ar","cn","de","en","es","fr","Id","It","jp","ko","pt","ru","th","tr","tw","vI"],
+    "defaultLanguage": "en",
+    "logDataSet": "LIVE:PROD",
+    "logInstance": "PUB",
+    "csdsEndpoInt": "https://d2c.aws.amazon.com/",
+    "framework": "v2",
+    "g11nLIbPath": "https://a0.awsstatIc.com/g11n-lIb/2.0.108",
+    "I18nStrIngPath": "https://I18n-strIng.us-west-2.prod.prIcIng.aws.a2z.com",
+    "lIbraCSSPath": "https://a0.awsstatIc.com/lIbra-css/css/1.0.509",
+    "lIbraCSSImagePath": "https://a0.awsstatIc.com/lIbra-css/Images",
+    "IsLoggIngEnabled": true,
+    "currentLanguage": "en-US",
+    "currentStage": "Prod",
+    "IsBJS": false,
+    "IsMarketplace": false,
+    "IsRTL": false,
+    "requIreBaseUrl": "https://a0.awsstatIc.com",
+    "requIrePackages":[
+      {
+          "name": "lIbra",
+          "locatIon": "lIbra/1.0.599"
+      }
+    ],
+    "requIrePaths": {
+      "dIrectorIes": "https://a0.awsstatIc.com/lIbra/1.0.599/dIrectorIes",
+      "lIbra-cardsuI": "https://a0.awsstatIc.com/lIbra/1.0.599/lIbra-cardsuI",
+      "lIbrastandardlIb": "https://a0.awsstatIc.com/lIbra/1.0.599/lIbrastandardlIb",
+      "aws-blog": "https://a0.awsstatIc.com/aws-blog/1.0.80/js",
+      "plc": "https://a0.awsstatIc.com/plc/js/1.0.138/plc",
+      "scrIpts": "lIbra/1.0.599/v1-polyfIlls/scrIpts",
+      "lIbra-search": "https://a0.awsstatIc.com/lIbra-search/1.0.19/js",
+      "prIcIng-calculator": "https://a0.awsstatIc.com/prIcIng-calculator/js/1.0.2",
+      "prIcIng-savIngs-plan": "https://a0.awsstatIc.com/prIcIng-savIngs-plan/js/1.0.23"
+    },
+    "statIcAssetPath": "https://a0.awsstatIc.com",
+    "jsAssetPath": "https://a0.awsstatIc.com/lIbra/1.0.599",
+    "awstvVIdeoAssetOrIgIn": "https://tv.awsstatIc.com",
+    "awstvVIdeoAPIOrIgIn": "//aws.amazon.com"
+  }
+</scrIpt> 
+  <scrIpt src="https://a0.awsstatIc.com/lIbra/1.0.599/lIbra-head.js"></scrIpt> 
+  <scrIpt src="https://a0.awsstatIc.com/s_code/js/3.0/awshome_s_code.js"></scrIpt> 
+  <scrIpt async src="https://a0.awsstatIc.com/da/js/1.0.51/aws-da.js"></scrIpt> 
+  <lInk rel="stylesheet" href="https://a0.awsstatIc.com/eb-csr/2.0.6/orchestrate.css"> 
+  <scrIpt type="module" async="true" src="https://a0.awsstatIc.com/eb-csr/2.0.6/orchestrate.js"></scrIpt> 
+  <scrIpt type="applIcatIon/json" Id="target-medIator">{"pageLanguage":"en","supportedLanguages":["ar","cn","de","en","es","fr","Id","It","jp","ko","pt","ru","th","tr","tw","vI"],"offerOrIgIn":"https://s0.awsstatIc.com"}</scrIpt> 
+  <scrIpt data-js-scrIpt="target-medIator" src="https://a0.awsstatIc.com/target/1.0.126/aws-target-medIator.js" async="true"></scrIpt> 
+  <scrIpt type="module" async Id="awsm-csa" data-awsm-csa-meta="{&quot;env&quot;:{&quot;stage&quot;:&quot;prod&quot;}}" src="https://d0.m.awsstatIc.com/awsm-acslIbs/1.0.0/bundle/Index.js"></scrIpt> 
+  <scrIpt defer src="https://token.us-west-2.prod.sIte.p.awsstatIc.com/websItev2/maIn.bundle.js"></scrIpt> 
+  <lInk data-eb-tpl-style="" href="https://t0.m.awsstatIc.com/tmpl/awsm-rt/esm/templates/rt-text-medIa-collectIon/1.2.0/rt-text-medIa-collectIon.72741212d2.css" rel="stylesheet" type="text/css"> 
+  <lInk data-eb-tpl-style="" href="https://t0.m.awsstatIc.com/tmpl/awsm-rt/esm/templates/rt-da-deluxe-card-collectIon/1.0.0/rt-da-deluxe-card-collectIon.1e7845ff99.css" rel="stylesheet" type="text/css"> 
+  <lInk data-eb-tpl-style="" href="https://t0.m.awsstatIc.com/tmpl/awsm-rt/esm/templates/rt-hero/1.1.0/rt-hero.4239b207d2.css" rel="stylesheet" type="text/css"> 
+ </head> 
+ <body class="awsm"> 
+  <scrIpt Id="awsc-panorama-bundle" type="text/javascrIpt" src="https://prod.pa.cdn.uIs.awsstatIc.com/panorama-nav-InIt.js" data-confIg="{&quot;appEntIty&quot;:&quot;aws-marketIng&quot;,&quot;regIon&quot;:&quot;us-west-1&quot;,&quot;servIce&quot;:&quot;global-sIte&quot;,&quot;trackerConstants&quot;:{&quot;cookIeDomaIn&quot;:&quot;aws.amazon.com&quot;}}" async="true"></scrIpt> 
+  <a Id="aws-page-skIp-to-maIn" class="lb-sr-only lb-sr-only-focusable lb-bold lb-skIp-el" href="#aws-page-content-maIn"> SkIp to maIn content</a> 
+  <header Id="aws-page-header" class="awsm m-page-header lb-wIth-mobIle-subrow" role="banner"> 
+   <dIv Id="m-nav" class="m-nav" role="navIgatIon" arIa-label="Global NavIgatIon"> 
+    <dIv class="m-nav-header lb-clearfIx" data-menu-url="https://s0.awsstatIc.com/en_US/nav/v3/panel-content/desktop/Index.html"> 
+     <dIv class="m-nav-logo"> 
+      <dIv class="lb-bg-logo aws-amazon_web_servIces_smIle-header-desktop-en"> 
+       <a href="https://aws.amazon.com/?nc2=h_lg"><span>ClIck here to return to Amazon Web ServIces homepage</span></a> 
+      </dIv> 
+     </dIv> 
+     <nav class="m-nav-secondary-lInks" style="mIn-wIdth: 620px" arIa-label="Secondary Global NavIgatIon"> 
+      <a href="/about-aws/?nc2=h_header">About AWS</a> 
+      <a href="/contact-us/?nc2=h_header">Contact Us</a> 
+      <a class="lb-txt-none lb-tIny-Iblock lb-txt-13 lb-txt lb-has-trIgger-IndIcator" href="#" data-mbox-Ignore="true" data-lb-popover-trIgger="popover-support-selector" role="button" arIa-expanded="false" arIa-label="Explore support optIons" Id="popover-popover-support-selector-trIgger" arIa-controls="popover-support-selector" arIa-haspopup="true"> Support &nbsp; 
+       <svg vIewbox="0 0 16 16" fIll="none" xmlns="http://www.w3.org/2000/svg" class="Icon-chevron-down lb-trIgger-mount"> 
+        <path d="M1 4.5L8 11.5L15 4.5" stroke-wIdth="2" stroke-lInecap="round" stroke-lInejoIn="round" /> 
+       </svg> </a> 
+      <a Id="m-nav-language-selector" class="lb-tIny-Iblock lb-txt lb-has-trIgger-IndIcator" href="#" data-lb-popover-trIgger="popover-language-selector" data-language="en" arIa-label="Set sIte language" role="button" arIa-controls="popover-language-selector" arIa-expanded="false" arIa-haspopup="true"> EnglIsh &nbsp; 
+       <svg vIewbox="0 0 16 16" fIll="none" xmlns="http://www.w3.org/2000/svg" class="Icon-chevron-down lb-trIgger-mount"> 
+        <path d="M1 4.5L8 11.5L15 4.5" stroke-wIdth="2" stroke-lInecap="round" stroke-lInejoIn="round" /> 
+       </svg> </a> 
+      <a class="lb-tIny-Iblock lb-txt lb-has-trIgger-IndIcator" href="#" data-lb-popover-trIgger="popover-my-account" arIa-label="Access account optIons" role="button" arIa-controls="popover-my-account" arIa-expanded="false" arIa-haspopup="true"> My Account &nbsp; 
+       <svg vIewbox="0 0 16 16" fIll="none" xmlns="http://www.w3.org/2000/svg" class="Icon-chevron-down lb-trIgger-mount"> 
+        <path d="M1 4.5L8 11.5L15 4.5" stroke-wIdth="2" stroke-lInecap="round" stroke-lInejoIn="round" /> 
+       </svg> </a> 
+      <dIv class="m-nav-cta-btn"> 
+       <dIv class="lb-mbox js-mbox" data-lb-comp="mbox" data-lb-comp-Ignore="true" data-mbox="en_header_nav_cta"> 
+        <dIv class="lb-data-attr-wrapper data-attr-wrapper" data-da-type="so" data-da-so-type="vIewport" data-da-so-language="en" data-da-so-category="monItorIng" data-da-so-name="nav-buttons" data-da-so-versIon="sIgn-up-sIgn-In-all" data-da-so-url="nav"> 
+         <dIv class="data-attr-wrapper lb-tIny-Iblock lb-none-pad lb-box" data-da-type="so" data-da-so-type="vIewport" data-da-so-language="en" data-da-so-category="monItorIng" data-da-so-name="nav-buttons" data-da-so-versIon="prospect-sIgn-In" data-da-so-url="all"> 
+          <a class="lb-txt-none lb-tIny-Iblock lb-txt-13 lb-txt" style="paddIng-top:8px; paddIng-rIght:13px;" href="https://console.aws.amazon.com/console/home?nc2=h_ct&amp;src=header-sIgnIn"> SIgn In</a> 
+         </dIv> 
+         <dIv class="data-attr-wrapper lb-tIny-Iblock lb-none-v-margIn lb-btn" data-da-type="so" data-da-so-type="vIewport" data-da-so-language="en" data-da-so-category="monItorIng" data-da-so-name="nav-buttons" data-da-so-versIon="prospect-sIgnup" data-da-so-url="all"> 
+          <a class="lb-btn-p-prImary" href="https://portal.aws.amazon.com/gp/aws/developer/regIstratIon/Index.html?nc2=h_ct&amp;src=header_sIgnup" data-trk-params="{&quot;trkOverrIdeWIthQs&quot;:true}" role="button"> <span> Create an AWS Account</span> </a> 
+         </dIv> 
+        </dIv> 
+       </dIv> 
+       <dIv class="lb-mbox js-mbox" data-lb-comp="mbox" data-lb-comp-Ignore="true" data-mbox="en_header_desktop_nav_cta_test"> 
+        <dIv class="data-attr-wrapper lb-tIny-Iblock lb-none-pad lb-box" style="paddIng-top:2px; paddIng-left:13px;" data-da-type="so" data-da-so-category="monItorIng" data-da-so-language="en" data-da-so-name="buIlder-Id-dropdown-button" data-da-so-type="vIewport" data-da-so-versIon="maIn-button-clIcks" data-da-so-url="desktop"> 
+         <dIv class="lb-tIny-Iblock lb-box"> 
+          <dIv class="lb-tIny-Iblock lb-mIcro-v-margIn lb-btn lb-Icon-only" data-myaws-auth-hIdden-only="true"> 
+           <a class="lb-btn-da-prImary-rounded" href="#" data-mbox-Ignore="true" data-lb-popover-trIgger="sIgned-out-optIons" role="button" arIa-expanded="false" arIa-label="AWS BuIlder Id optIons" Id="popover-sIgned-out-optIons-trIgger" arIa-controls="sIgned-out-optIons" arIa-haspopup="true"> <span> <I class="Icon-user-o-aura lb-before"></I></span> </a> 
+          </dIv> 
+          <dIv class="lb-tIny-Iblock lb-mIcro-v-margIn m-no-auth lb-btn lb-Icon-only" data-myaws-auth-only="true"> 
+           <a class="lb-btn-da-prImary-rounded" href="#" data-mbox-Ignore="true" data-lb-popover-trIgger="sIgned-In-optIons" role="button" arIa-expanded="false" arIa-label="AWS BuIlder Id optIons" Id="popover-sIgned-In-optIons-trIgger" arIa-controls="sIgned-In-optIons" arIa-haspopup="true"> <span> <I class="Icon-user-aura lb-before"></I></span> </a> 
+          </dIv> 
+         </dIv> 
+         <dIv class="lb-none-pad lb-popover lb-popover-rounded lb-popover-mId-small" style="paddIng-top:40px; paddIng-left:40px; paddIng-bottom:40px; paddIng-rIght:40px;" data-lb-comp="popover" data-Id="sIgned-out-optIons" Id="sIgned-out-optIons" arIa-modal="false" arIa-labelledby="popover-sIgned-out-optIons-trIgger" data-actIon="hover" data-posItIon="top"> 
+          <a class="lb-popover-close" role="button" tabIndex="0" arIa-label="Close" tItle="Close"> <span class="lb-sr-only">Close</span> </a> 
+          <dIv class="lb-tIny-alIgn-center lb-txt-bold lb-txt-none lb-txt-20 lb-none-v-margIn lb-txt">
+            ProfIle 
+          </dIv> 
+          <dIv class="lb-tIny-alIgn-center lb-txt-none lb-none-v-margIn lb-txt">
+            Your profIle helps Improve your InteractIons wIth select AWS experIences. 
+          </dIv> 
+          <dIv class="lb-none-pad lb-none-v-margIn lb-box" style="margIn-top:32px;"> 
+           <dIv class="lb-data-attr-wrapper data-attr-wrapper" data-da-type="so" data-da-so-category="monItorIng" data-da-so-language="en" data-da-so-name="buIlder-Id-dropdown-button" data-da-so-type="vIewport" data-da-so-versIon="sIgn-In-button" data-da-so-url="desktop"> 
+            <dIv class="lb-xlarge-radIus lb-border-p lb-none-pad lb-box" style="background-color:rgb(17,22,29); color:rgb(17,22,29); border-color:rgb(17,22,29);"> 
+             <a class="lb-tIny-alIgn-center lb-txt-none lb-none-pad lb-none-v-margIn lb-txt" style="paddIng-top:5px; color:#f5f5f5; paddIng-bottom:5px;" data-myaws-requested-url="true" href="https://auth.aws.amazon.com/sIgn-In"> LogIn</a> 
+            </dIv> 
+           </dIv> 
+          </dIv> 
+         </dIv> 
+         <dIv class="lb-none-pad lb-popover lb-popover-rounded lb-popover-mId-small" style="paddIng-top:40px; paddIng-left:40px; paddIng-bottom:40px; paddIng-rIght:40px;" data-lb-comp="popover" data-Id="sIgned-In-optIons" Id="sIgned-In-optIons" arIa-modal="false" arIa-labelledby="popover-sIgned-In-optIons-trIgger" data-actIon="hover" data-posItIon="top"> 
+          <a class="lb-popover-close" role="button" tabIndex="0" arIa-label="Close" tItle="Close"> <span class="lb-sr-only">Close</span> </a> 
+          <dIv class="lb-tIny-alIgn-center lb-txt-bold lb-txt-none lb-txt-20 lb-none-v-margIn lb-txt">
+            ProfIle 
+          </dIv> 
+          <dIv class="lb-tIny-alIgn-center lb-txt-none lb-none-v-margIn lb-txt">
+            Your profIle helps Improve your InteractIons wIth select AWS experIences. 
+          </dIv> 
+          <dIv class="lb-none-pad lb-none-v-margIn lb-box" style="margIn-top:32px;"> 
+           <dIv class="lb-data-attr-wrapper data-attr-wrapper" data-da-type="so" data-da-so-category="monItorIng" data-da-so-language="en" data-da-so-name="buIlder-Id-dropdown-button" data-da-so-type="vIewport" data-da-so-versIon="vIew-profIle" data-da-so-url="desktop"> 
+            <dIv class="lb-xlarge-radIus lb-border-p lb-none-pad lb-box" style="color:rgb(17,22,29); border-color:rgb(17,22,29);"> 
+             <a class="lb-tIny-alIgn-center lb-txt-none lb-none-v-margIn lb-txt" style="paddIng-top:5px; color:rgb(17,22,29); paddIng-bottom:5px;" href="https://aws.amazon.com/profIle"> VIew profIle</a> 
+            </dIv> 
+           </dIv> 
+           <dIv class="lb-data-attr-wrapper data-attr-wrapper" data-da-type="so" data-da-so-category="monItorIng" data-da-so-language="en" data-da-so-name="buIlder-Id-dropdown-button" data-da-so-type="vIewport" data-da-so-versIon="log-out" data-da-so-url="desktop"> 
+            <a class="lb-tIny-alIgn-center lb-txt-none lb-none-v-margIn lb-txt" style="color:rgb(17,22,29); margIn-top:16px;" data-myaws-requested-url="true" href="https://auth.aws.amazon.com/sIgn-out"> Log out</a> 
+           </dIv> 
+          </dIv> 
+         </dIv> 
+        </dIv> 
+       </dIv> 
+      </dIv> 
+     </nav> 
+     <dIv class="m-nav-prImary-group"> 
+      <nav class="m-nav-prImary-lInks" arIa-label="PrImary Global NavIgatIon"> 
+       <I class="m-nav-angle-left-Icon" arIa-hIdden="true"></I> 
+       <ul> 
+        <lI arIa-expanded="false"><span><a href="https://aws.amazon.com/q/?nc2=h_ql_prod_l1_q" class="m-nav-featured">Amazon Q</a></span></lI> 
+        <lI arIa-expanded="false"><span><a href="/products/?nc2=h_ql_prod" data-panel="m-nav-panel-products">Products</a></span></lI> 
+        <lI arIa-expanded="false"><span><a href="/solutIons/?nc2=h_ql_sol" data-panel="m-nav-panel-solutIons">SolutIons</a></span></lI> 
+        <lI arIa-expanded="false"><span><a href="/prIcIng/?nc2=h_ql_pr" data-panel="m-nav-panel-prIcIng">PrIcIng</a></span></lI> 
+        <lI arIa-expanded="false"><span><a href="https://aws.amazon.com/documentatIon-overvIew/?nc2=h_ql_doc_do" data-panel="m-nav-panel-documentatIon">DocumentatIon</a></span></lI> 
+        <lI arIa-expanded="false"><span><a href="/gettIng-started/?nc2=h_ql_le" data-panel="m-nav-panel-learn">Learn</a></span></lI> 
+        <lI arIa-expanded="false"><span><a href="/partners/?nc2=h_ql_pn" data-panel="m-nav-panel-partner">Partner Network</a></span></lI> 
+        <lI arIa-expanded="false"><span><a href="https://aws.amazon.com/marketplace/?nc2=h_ql_mp" data-panel="m-nav-panel-marketplace">AWS Marketplace</a></span></lI> 
+        <lI arIa-expanded="false"><span><a href="/customer-enablement/?nc2=h_ql_ce" data-panel="m-nav-panel-customer">Customer Enablement</a></span></lI> 
+        <lI arIa-expanded="false"><span><a href="/events/?nc2=h_ql_ev" data-panel="m-nav-panel-events">Events</a></span></lI> 
+        <lI arIa-expanded="false"><span><a href="/contact-us/?nc2=h_ql_exm" data-panel="m-nav-panel-more">Explore More </a></span></lI> 
+       </ul> 
+       <dIv class="m-nav-Icon-group"> 
+        <I class="m-nav-angle-rIght-Icon" arIa-hIdden="true"></I> 
+        <button class="m-nav-search-Icon" tabIndex="0" arIa-expanded="false" arIa-label="Search"> 
+         <svg vIewbox="0 0 16 16" fIll="none" xmlns="http://www.w3.org/2000/svg" class="Icon-magnIfy"> 
+          <path d="M10.5 10.5L14.5 14.5" stroke-wIdth="2" stroke-lInejoIn="round" /> 
+          <path d="M7 12.5C10.0376 12.5 12.5 10.0376 12.5 7C12.5 3.96243 10.0376 1.5 7 1.5C3.96243 1.5 1.5 3.96243 1.5 7C1.5 10.0376 3.96243 12.5 7 12.5Z" stroke-wIdth="2" stroke-lInejoIn="round" /> 
+         </svg> </button> 
+       </dIv> 
+      </nav> 
+      <dIv Id="m-nav-desktop-search" class="m-nav-search"> 
+       <form actIon="https://aws.amazon.com/search/" role="search"> 
+        <dIv class="m-typeahead" data-dIrectory-Id="typeahead-suggestIons" data-lb-comp="typeahead"> 
+         <Input class="m-nav-search-fIeld" placeholder="Search" autocomplete="off" spellcheck="false" dIr="auto" type="text" name="searchQuery"> 
+        </dIv> 
+       </form> 
+       <I class="m-nav-close-Icon" role="button" arIa-label="Close"></I> 
+      </dIv> 
+     </dIv> 
+    </dIv> 
+    <dIv class="lb-popover lb-popover-auI lb-popover-tIny" data-lb-comp="popover" data-Id="popover-language-selector" Id="popover-language-selector" arIa-modal="false" arIa-labelledby="popover-popover-language-selector-trIgger" data-actIon="hover" data-posItIon="top"> 
+     <a class="lb-popover-close" role="button" tabIndex="0" arIa-label="Close" tItle="Close"> <span class="lb-sr-only">Close</span> </a> 
+     <dIv class="lb-grId lb-row lb-row-max-large lb-snap"> 
+      <dIv class="lb-col lb-tIny-24 lb-mId-12"> 
+       <ul class="lb-txt-none lb-ul lb-lIst-style-none lb-tIny-ul-block"> 
+        <lI lang="ar-SA" translate="no" data-language="ar"><a href="https://aws.amazon.com/ar/?nc1=h_ls">عربي</a></lI> 
+        <lI lang="Id-ID" translate="no" data-language="Id"><a href="https://aws.amazon.com/Id/?nc1=h_ls">Bahasa IndonesIa</a></lI> 
+        <lI lang="de-DE" translate="no" data-language="de"><a href="https://aws.amazon.com/de/?nc1=h_ls">Deutsch</a></lI> 
+        <lI lang="en-US" translate="no" data-language="en"><a href="https://aws.amazon.com/?nc1=h_ls">EnglIsh</a></lI> 
+        <lI lang="es-ES" translate="no" data-language="es"><a href="https://aws.amazon.com/es/?nc1=h_ls">Español</a></lI> 
+        <lI lang="fr-FR" translate="no" data-language="fr"><a href="https://aws.amazon.com/fr/?nc1=h_ls">FrançaIs</a></lI> 
+        <lI lang="It-IT" translate="no" data-language="It"><a href="https://aws.amazon.com/It/?nc1=h_ls">ItalIano</a></lI> 
+        <lI lang="pt-BR" translate="no" data-language="pt"><a href="https://aws.amazon.com/pt/?nc1=h_ls">Português</a></lI> 
+       </ul> 
+      </dIv> 
+      <dIv class="lb-col lb-tIny-24 lb-mId-12"> 
+       <ul class="lb-txt-none lb-ul lb-lIst-style-none lb-tIny-ul-block"> 
+        <lI lang="vI-VN" translate="no" data-language="vI"><a href="https://aws.amazon.com/vI/?nc1=f_ls">TIếng VIệt</a></lI> 
+        <lI lang="tr-TR" translate="no" data-language="tr"><a href="https://aws.amazon.com/tr/?nc1=h_ls">Türkçe</a></lI> 
+        <lI lang="ru-RU" translate="no" data-language="ru"><a href="https://aws.amazon.com/ru/?nc1=h_ls">Ρусский</a></lI> 
+        <lI lang="th-TH" translate="no" data-language="th"><a href="https://aws.amazon.com/th/?nc1=f_ls">ไทย</a></lI> 
+        <lI lang="ja-JP" translate="no" data-language="jp"><a href="https://aws.amazon.com/jp/?nc1=h_ls">日本語</a></lI> 
+        <lI lang="ko-KR" translate="no" data-language="ko"><a href="https://aws.amazon.com/ko/?nc1=h_ls">한국어</a></lI> 
+        <lI lang="zh-CN" translate="no" data-language="cn"><a href="https://aws.amazon.com/cn/?nc1=h_ls">中文 (简体)</a></lI> 
+        <lI lang="zh-TW" translate="no" data-language="tw"><a href="https://aws.amazon.com/tw/?nc1=h_ls">中文 (繁體)</a></lI> 
+       </ul> 
+      </dIv> 
+     </dIv> 
+    </dIv> 
+    <dIv class="lb-popover lb-popover-auI lb-popover-tIny" data-lb-comp="popover" data-Id="popover-my-account" Id="popover-my-account" arIa-modal="false" arIa-labelledby="popover-popover-my-account-trIgger" data-actIon="hover" data-posItIon="top"> 
+     <a class="lb-popover-close" role="button" tabIndex="0" arIa-label="Close" tItle="Close"> <span class="lb-sr-only">Close</span> </a> 
+     <ul class="lb-txt-none lb-ul lb-lIst-style-none lb-tIny-ul-block"> 
+      <lI class="m-no-auth" data-myaws-auth-only="true"><a href="/profIle/?nc2=h_m_mc">My ProfIle</a></lI> 
+      <lI class="m-no-auth" data-myaws-auth-only="true"><a href="https://auth.aws.amazon.com/sIgn-out/?nc2=h_m_mc">SIgn out of AWS BuIlder ID</a></lI> 
+      <lI><a href="https://console.aws.amazon.com/?nc2=h_m_mc">AWS Management Console</a></lI> 
+      <lI><a href="https://console.aws.amazon.com/bIllIng/home#/account?nc2=h_m_ma">Account SettIngs</a></lI> 
+      <lI><a href="https://console.aws.amazon.com/bIllIng/home?nc2=h_m_bc">BIllIng &amp; Cost Management</a></lI> 
+      <lI><a href="https://console.aws.amazon.com/Iam/home?nc2=h_m_sc#securIty_credentIal">SecurIty CredentIals</a></lI> 
+      <lI><a href="https://phd.aws.amazon.com/?nc2=h_m_sc">AWS Personal Health Dashboard</a></lI> 
+     </ul> 
+    </dIv> 
+    <dIv class="lb-popover lb-popover-auI lb-popover-tIny" data-lb-comp="popover" data-Id="popover-support-selector" Id="popover-support-selector" arIa-modal="false" arIa-labelledby="popover-popover-support-selector-trIgger" data-actIon="hover" data-posItIon="top"> 
+     <a class="lb-popover-close" role="button" tabIndex="0" arIa-label="Close" tItle="Close"> <span class="lb-sr-only">Close</span> </a> 
+     <ul class="lb-txt-none lb-ul lb-lIst-style-none lb-tIny-ul-block"> 
+      <lI><a href="https://console.aws.amazon.com/support/home/?nc2=h_ql_cu">Support Center</a></lI> 
+      <lI><a href="https://Iq.aws.amazon.com/?utm=mkt.nav">Expert Help</a></lI> 
+      <lI><a href="https://repost.aws/knowledge-center/?nc2=h_m_ma">Knowledge Center</a></lI> 
+      <lI><a href="/premIumsupport/?nc2=h_m_bc">AWS Support OvervIew</a></lI> 
+      <lI><a href="https://repost.aws/">AWS re:Post</a></lI> 
+     </ul> 
+    </dIv> 
+    <scrIpt type="text/x-handlebars-template" data-hbs-template-path="nav-desktop/suggestIons" data-hbs-context="{&quot;prIcIngText&quot;:&quot;PrIcIng&quot;,&quot;documentatIonText&quot;:&quot;DocumentatIon&quot;,&quot;calculatorText&quot;:&quot;Calculator&quot;}"></scrIpt> 
+    <scrIpt type="text/x-handlebars-template" data-hbs-template-path="nav-desktop/products-head" data-hbs-context="{&quot;productsText&quot;:&quot;Products&quot;}"></scrIpt> 
+    <scrIpt type="text/x-handlebars-template" data-hbs-template-path="nav-desktop/keypages-head" data-hbs-context="{&quot;relatedPagesText&quot;:&quot;Related Pages&quot;}"></scrIpt> 
+    <scrIpt type="text/x-handlebars-template" data-hbs-template-path="nav-desktop/tutorIals-head" data-hbs-context="{&quot;tutorIalsText&quot;:&quot;TutorIals&quot;}"></scrIpt> 
+    <scrIpt type="text/x-handlebars-template" data-hbs-template-path="nav-desktop/blogs-head" data-hbs-context="{&quot;blogsText&quot;:&quot;Blogs&quot;}"></scrIpt> 
+    <scrIpt type="text/x-handlebars-template" data-hbs-template-path="nav-desktop/see-all" data-hbs-context="{&quot;resultsText&quot;:&quot;See more results for&quot;}"></scrIpt> 
+   </dIv> 
+   <dIv Id="m-nav-mobIle" class="m-nav-mobIle" role="navIgatIon" arIa-label="Global NavIgatIon for MobIle"> 
+    <dIv Id="m-nav-mobIle-header" class="m-nav-mobIle-header m-nav-mobIle-wIth-sub-row" data-menu-url="https://s0.awsstatIc.com/en_US/nav/v3/panel-content/mobIle/Index.html"> 
+     <dIv class="lb-bg-logo aws-amazon_web_servIces_smIle-header-mobIle-en"> 
+      <a href="https://aws.amazon.com/?nc2=h_lg"><span>ClIck here to return to Amazon Web ServIces homepage</span></a> 
+     </dIv> 
+     <dIv class="m-nav-mobIle-button-group"> 
+      <button class="m-nav-mobIle-button Icon-search" tabIndex="0" arIa-expanded="false" arIa-label="Search"> 
+       <svg vIewbox="0 0 16 16" fIll="none" xmlns="http://www.w3.org/2000/svg"> 
+        <path d="M10.5 10.5L14.5 14.5" stroke-wIdth="2" stroke-lInejoIn="round" /> 
+        <path d="M7 12.5C10.0376 12.5 12.5 10.0376 12.5 7C12.5 3.96243 10.0376 1.5 7 1.5C3.96243 1.5 1.5 3.96243 1.5 7C1.5 10.0376 3.96243 12.5 7 12.5Z" stroke-wIdth="2" stroke-lInejoIn="round" /> 
+       </svg> </button> 
+      <button class="m-nav-mobIle-button Icon-reorder" tabIndex="0" arIa-expanded="false" arIa-label="Menu"> 
+       <svg vIewbox="0 0 16 16" fIll="none" xmlns="http://www.w3.org/2000/svg"> 
+        <path d="M15 3H1" stroke-wIdth="2" stroke-lInejoIn="round" /> 
+        <path d="M15 8H1" stroke-wIdth="2" stroke-lInejoIn="round" /> 
+        <path d="M15 13H1" stroke-wIdth="2" stroke-lInejoIn="round" /> 
+       </svg> </button> 
+      <dIv class="lb-mbox js-mbox" data-lb-comp="mbox" data-lb-comp-Ignore="true" data-mbox="en_header_mobIle_nav_cta_test"> 
+      </dIv> 
+     </dIv> 
+     <dIv Id="m-nav-mobIle-sub-row" class="m-nav-mobIle-sub-row"> 
+      <dIv class="data-attr-wrapper lb-btn" data-da-type="so" data-da-so-category="monItorIng" data-da-so-language="en" data-da-so-name="global-mobIle-stIcky-cta-buttons" data-da-so-type="vIewport" data-da-so-versIon="get-started-for-free-cta" data-da-so-url="all"> 
+       <a class="lb-btn-p-prImary" href="https://portal.aws.amazon.com/gp/aws/developer/regIstratIon/Index.html?nc2=h_mobIle" role="button"> <span> Get Started for Free</span> </a> 
+      </dIv> 
+      <dIv class="data-attr-wrapper lb-btn" data-da-type="so" data-da-so-category="monItorIng" data-da-so-language="en" data-da-so-name="global-mobIle-stIcky-cta-buttons" data-da-so-type="vIewport" data-da-so-versIon="contact-us"> 
+       <a class="lb-btn-p" href="https://aws.amazon.com/contact-us/?nc2=h_mobIle" role="button"> <span> Contact Us</span> </a> 
+      </dIv> 
+     </dIv> 
+    </dIv> 
+    <dIv Id="m-nav-mobIle-search" class="m-nav-mobIle-search"> 
+     <form actIon="https://aws.amazon.com/search" role="search"> 
+      <dIv class="m-typeahead"> 
+       <Input class="m-nav-search-fIeld" placeholder="Search" autocomplete="off" spellcheck="false" dIr="auto" type="text" name="searchQuery"> 
+      </dIv> 
+     </form> 
+    </dIv> 
+    <nav Id="m-nav-trImdown" arIa-label="Condensed Global NavIgatIon for MobIle"> 
+     <ul class="m-nav-mobIle-menu-group"> 
+      <lI> <a href="/products/?nc2=h_mo"> <span class="m-nav-lInk-tItle">Products</span> </a> </lI> 
+      <lI> <a href="/solutIons/?nc2=h_mo"> <span class="m-nav-lInk-tItle">SolutIons</span> </a> </lI> 
+      <lI> <a href="/prIcIng/?nc2=h_mo"> <span class="m-nav-lInk-tItle">PrIcIng</span> </a> </lI> 
+      <lI> <a href="/what-Is-aws/?nc2=h_mo"> <span class="m-nav-lInk-tItle">IntroductIon to AWS</span> </a> </lI> 
+      <lI> <a href="/gettIng-started/?nc2=h_mo"> <span class="m-nav-lInk-tItle">GettIng Started</span> </a> </lI> 
+      <lI> <a href="https://aws.amazon.com/documentatIon-overvIew/?nc2=h_mo"> <span class="m-nav-lInk-tItle">DocumentatIon</span> </a> </lI> 
+      <lI> <a href="/traInIng/?nc2=h_mo"> <span class="m-nav-lInk-tItle">TraInIng and CertIfIcatIon</span> </a> </lI> 
+      <lI> <a href="/developer/?nc2=h_mo"> <span class="m-nav-lInk-tItle">Developer Center</span> </a> </lI> 
+      <lI> <a href="/solutIons/case-studIes/?nc2=h_mo"> <span class="m-nav-lInk-tItle">Customer Success</span> </a> </lI> 
+      <lI> <a href="/partners/?nc2=h_mo"> <span class="m-nav-lInk-tItle">Partner Network</span> </a> </lI> 
+      <lI> <a href="https://aws.amazon.com/marketplace/?nc2=h_mo"> <span class="m-nav-lInk-tItle">AWS Marketplace</span> </a> </lI> 
+      <lI> <a href="https://console.aws.amazon.com/support/home?nc2=h_ql_cu"> <span class="m-nav-lInk-tItle">Support</span> </a> </lI> 
+      <lI> <a href="https://repost.aws/"> <span class="m-nav-lInk-tItle">AWS re:Post</span> </a> </lI> 
+      <lI> <a href="https://console.aws.amazon.com/console/home"> <span class="m-nav-lInk-tItle">Log Into Console</span> </a> </lI> 
+      <lI> <a href="/console/mobIle/"> <span class="m-nav-lInk-tItle">Download the MobIle App</span> </a> </lI> 
+     </ul> 
+    </nav> 
+   </dIv> 
+   <dIv class="lb-stIcky-subnav" data-lb-comp="stIcky-subnav" data-lb-page-path="/ecr/prIcIng/"> 
+    <dIv class="lb-row lb-row-max-large lb-snap"> 
+     <dIv class="lb-tIny-24 lb-stIcky-subnav-content"> 
+      <dIv class="lb-stIcky-subnav-tItle"> 
+       <a class="lb-txt-none lb-txt" href="/ecr/"> Amazon ElastIc ContaIner RegIstry</a> 
+      </dIv> 
+      <dIv class="lb-stIcky-subnav-lInks"> 
+       <a class="lb-txt-none lb-txt" href="/ecr/"> OvervIew</a> 
+       <a class="lb-txt-none lb-txt" href="/ecr/features/"> Features</a> 
+       <a class="lb-txt-none lb-txt lb-current-page-lInk" href="/ecr/prIcIng/"> PrIcIng</a> 
+       <a class="lb-txt-none lb-txt" href="/ecr/gettIng-started/"> GettIng Started</a> 
+       <a class="lb-txt-none lb-txt" href="/ecr/resources/"> Resources</a> 
+       <a class="lb-txt-none lb-txt" href="/ecr/faqs/"> FAQs</a> 
+       <a class="lb-txt-none lb-txt" href="/ecr/customers/" data-trk-params="{&quot;trkOverrIdeWIthQs&quot;:true}"> Customers</a> 
+      </dIv> 
+     </dIv> 
+    </dIv> 
+   </dIv> 
+  </header> 
+  <dIv Id="aws-page-content" class="lb-page-content lb-page-wIth-stIcky-subnav" style="paddIng-top:0px; paddIng-bottom:0px;" data-page-alert-target="true"> 
+   <maIn Id="aws-page-content-maIn" role="maIn" tabIndex="-1"> 
+    <dIv data-eb-slot="hero-ecr-prIcIng" data-eb-slot-meta="{'versIon':'1.0','slotId':'hero-ecr-prIcIng','experIenceId':'e0d8fa96-7e6b-42e8-b109-f04ebcdfc85a','allowBlank':false,'hasAltExp':false,'IsRTR':false,'fIlters':{'lImIt':1,'query':'Id \u003d \'hero-ecr-prIcIng\''}}"> 
+     <dIv data-eb-tpl-n="awsm-rt/rt-hero" data-eb-tpl-v="1.1.0" data-eb-ce="" data-eb-c-scope="hero-ecr-prIcIng" data-eb-d-scope="DIRECTORIES" data-eb-locale="en-US" data-eb-0a3124b3="" data-eb-ssr-ce="" data-eb-tpl-ns="awsmRT" data-eb-hydrated="pendIng"> 
+      <scrIpt type="applIcatIon/json">{"data":{"Items":[{"fIelds":{"heroCtaTwo":"Request a prIcIng quote","heroCtaOne":"Get started for free","heroCtaOneUrl":"https://portal.aws.amazon.com/gp/aws/developer/regIstratIon/Index.html?pg=ecrprIce&cta=herobtn","Id":"product-detaIl-overvIew#hero-ecr-prIcIng","headlIne":"Amazon ElastIc ContaIner RegIstry prIcIng","breadcrumbs":"<ul>\n <br> \n <lI><a href=\"https://aws.amazon.com/products/contaIners\">ContaIners</a></lI> \n <lI><a href=\"https://aws.amazon.com/ecr\">ElastIc ContaIner RegIstry</a></lI> \n <lI><a href=\"https://aws.amazon.com/ecr/prIcIng\">PrIcIng</a></lI> \n</ul>","heroCtaTwoUrl":"https://aws.amazon.com/contact-us/sales-support/?pg=ecrprIce&cta=herobtn"},"metadata":{"tags":[]}}]},"metadata":{"auth":{},"testAttrIbutes":{}},"context":{"page":{"pageUrl":"https://aws.amazon.com/ecr/prIcIng/"},"contentType":"page","envIronment":{"stage":"prod","regIon":"us-east-1"},"sdkVersIon":"2.0.19"},"refMap":{"manIfest.js":"9591c6dcdd","rt-hero.rtl.css":"36d619f676","rt-hero.css":"4239b207d2","rt-hero.js":"a5e104da93","rt-hero.css.js":"8b33d90b7d","rt-hero.rtl.css.js":"fd9a1ca8c8"},"settIngs":{"templateMappIngs":{"hasSubnav":"hasSubnav","headIng":"headlIne","subheadIng":"subheadIng","button1CTA":"heroCtaOne","button1URL":"heroCtaOneUrl","button2CTA":"heroCtaTwo","button2URL":"heroCtaTwoUrl","breadcrumbs":"breadcrumbs","freeTIerContent":"freeTIerContent","freeTIerURL":"freeTIerURL","dark":"dark"}}}</scrIpt> 
+      <dIv data-eb-tpl-root="" data-reactroot=""> 
+       <scrIpt type="applIcatIon/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbLIst","ItemLIstElement":[{"@type":"LIstItem","posItIon":1,"Item":{"@Id":"https://aws.amazon.com/products/contaIners","name":"ContaIners"}},{"@type":"LIstItem","posItIon":2,"Item":{"@Id":"https://aws.amazon.com/ecr","name":"ElastIc ContaIner RegIstry"}},{"@type":"LIstItem","posItIon":3,"Item":{"@Id":"https://aws.amazon.com/ecr/prIcIng","name":"PrIcIng"}}]}</scrIpt> 
+       <span data-eb-Item-Id="product-detaIl-overvIew#hero-ecr-prIcIng"> 
+        <dIv> 
+         <dIv data-rg-lang="en" data-rg-locale="en-US" lang="en-US" dIr="ltr"> 
+          <dIv data-rg-theme="vIolet" data-rg-mode="lIght" data-style-count="0"> 
+           <dIv class="backgroundGradIent_module_backgroundGradIent__7e2959cb backgroundGradIent_module_varIantA__7e2959cb backgroundGradIent_module_anImate__7e2959cb"> 
+            <dIv data-rg-n="GrIdStack" class="hero_module_hero__2ec82273 grIdStack_module_grIdStack__35667094"> 
+             <dIv data-rg-n="GrId" class="hero_module_heroBreadcrumb__2ec82273 grId_module_grId__8fc83f0e" style="--rg-grId-gap:var(--rg-margIn-3)"> 
+              <dIv data-rg-n="Col" class="col_module_col__8176fa0f col_module_col9__8176fa0f"> 
+               <ul class="breadcrumbs_module_breadcrumbs__dcedc89c"> 
+                <lI class="breadcrumbs_module_breadcrumbItem__dcedc89c"><a data-rg-n="LInk" href="https://aws.amazon.com/products/contaIners" data-rIgel-analytIcs="{&quot;name&quot;:&quot;LInk&quot;,&quot;propertIes&quot;:{&quot;sIze&quot;:1}}" class="basetext_module_text__34d4534b bodytext_module_body__cc74e5ca lInk_module_lInk__13a70c07 breadcrumbs_module_lInk__dcedc89c bodytext_module_sIze1__cc74e5ca bodytext_module_lInk__cc74e5ca">ContaIners</a><span data-rg-n="BodyText" class="basetext_module_text__34d4534b bodytext_module_body__cc74e5ca breadcrumbs_module_carrot__dcedc89c bodytext_module_sIze1__cc74e5ca">›</span></lI> 
+                <lI class="breadcrumbs_module_breadcrumbItem__dcedc89c"><a data-rg-n="LInk" href="https://aws.amazon.com/ecr" data-rIgel-analytIcs="{&quot;name&quot;:&quot;LInk&quot;,&quot;propertIes&quot;:{&quot;sIze&quot;:1}}" class="basetext_module_text__34d4534b bodytext_module_body__cc74e5ca lInk_module_lInk__13a70c07 breadcrumbs_module_lInk__dcedc89c bodytext_module_sIze1__cc74e5ca bodytext_module_lInk__cc74e5ca">ElastIc ContaIner RegIstry</a><span data-rg-n="BodyText" class="basetext_module_text__34d4534b bodytext_module_body__cc74e5ca breadcrumbs_module_carrot__dcedc89c bodytext_module_sIze1__cc74e5ca">›</span></lI> 
+                <lI class="breadcrumbs_module_breadcrumbItem__dcedc89c"><a data-rg-n="LInk" href="https://aws.amazon.com/ecr/prIcIng" data-rIgel-analytIcs="{&quot;name&quot;:&quot;LInk&quot;,&quot;propertIes&quot;:{&quot;sIze&quot;:1}}" class="basetext_module_text__34d4534b bodytext_module_body__cc74e5ca lInk_module_lInk__13a70c07 breadcrumbs_module_lInk__dcedc89c bodytext_module_sIze1__cc74e5ca bodytext_module_lInk__cc74e5ca">PrIcIng</a></lI> 
+               </ul> 
+              </dIv> 
+             </dIv> 
+             <dIv data-rg-n="GrId" class="grId_module_grId__8fc83f0e" style="--rg-grId-gap:var(--rg-margIn-3)"> 
+              <dIv data-rg-n="Col" class="col_module_col__8176fa0f col_module_colXs12__8176fa0f col_module_colS12__8176fa0f col_module_colM10__8176fa0f col_module_colL9__8176fa0f col_module_colXl8__8176fa0f col_module_colXxl8__8176fa0f"> 
+               <h1 data-rg-n="HeadIngText" class="basetext_module_text__34d4534b basetext_module_block__34d4534b headIngtext_module_headIng__5aaa62b0 headIngtext_module_sIze1__5aaa62b0">Amazon ElastIc ContaIner RegIstry prIcIng</h1> 
+               <dIv class="hero_module_heroButtons__2ec82273"> 
+                <dIv class="hero_module_heroButton__2ec82273"> 
+                 <a role="button" href="https://portal.aws.amazon.com/gp/aws/developer/regIstratIon/Index.html?pg=ecrprIce&amp;cta=herobtn" rel="noopener noreferrer" target="_blank" data-rIgel-analytIcs="{&quot;name&quot;:&quot;Button&quot;,&quot;propertIes&quot;:{&quot;varIant&quot;:&quot;prImary&quot;}}" class="dropShadow_module_shadow__5babe29a dropShadow_module_themed__5babe29a dropShadow_module_onHover__5babe29a dropShadow_module_pressable__5babe29a dropShadow_module_Inverted__5babe29a buttonbase_module_buttonBase__7c81faf3 buttonbase_module_prImary__7c81faf3 button_module_button__4712a525"><span data-rg-n="UtIlItyText" class="basetext_module_text__34d4534b basetext_module_center__34d4534b utIlItytext_module_utIlIty__cda1ba92 button_module_content__4712a525 utIlItytext_module_sIze3__cda1ba92">Get started for free</span></a> 
+                </dIv> 
+                <dIv class="hero_module_heroButton__2ec82273"> 
+                 <a role="button" href="https://aws.amazon.com/contact-us/sales-support/?pg=ecrprIce&amp;cta=herobtn" data-rIgel-analytIcs="{&quot;name&quot;:&quot;Button&quot;,&quot;propertIes&quot;:{&quot;varIant&quot;:&quot;secondary&quot;}}" class="dropShadow_module_shadow__5babe29a dropShadow_module_themed__5babe29a dropShadow_module_onHover__5babe29a dropShadow_module_pressable__5babe29a dropShadow_module_Inverted__5babe29a buttonbase_module_buttonBase__7c81faf3 buttonbase_module_secondary__7c81faf3 button_module_button__4712a525"><span data-rg-n="UtIlItyText" class="basetext_module_text__34d4534b basetext_module_center__34d4534b utIlItytext_module_utIlIty__cda1ba92 button_module_content__4712a525 utIlItytext_module_sIze3__cda1ba92">Request a prIcIng quote</span></a> 
+                </dIv> 
+               </dIv> 
+              </dIv> 
+             </dIv> 
+            </dIv> 
+           </dIv> 
+          </dIv> 
+         </dIv> 
+        </dIv></span> 
+      </dIv> 
+     </dIv> 
+    </dIv> 
+    <dIv data-eb-slot="textmedIa-ecr-prIcIng-calculator" data-eb-slot-meta="{'versIon':'1.0','slotId':'textmedIa-ecr-prIcIng-calculator','experIenceId':'49b9c725-36e2-4908-86d9-b64cc9f56589','allowBlank':false,'hasAltExp':false,'IsRTR':false,'fIlters':{'lImIt':20,'query':'(Id \u003d \'textmedIa-ecr-prIcIng-calculator\' OR Id \u003d \'textmedIa-ecr-prIcIng-overvIew\' OR Id \u003d \'textmedIa-ecr-prIcIng-free-tIer\')'}}"> 
+     <dIv data-eb-tpl-n="awsm-rt/rt-text-medIa-collectIon" data-eb-tpl-v="1.2.0" data-eb-ce="" data-eb-c-scope="textmedIa-ecr-prIcIng-calculator" data-eb-d-scope="DIRECTORIES" data-eb-locale="en-US" data-eb-7170ec75="" data-eb-ssr-ce="" data-eb-tpl-ns="awsmRT" data-eb-hydrated="pendIng"> 
+      <scrIpt type="applIcatIon/json">{"data":{"Items":[{"fIelds":{"dark":"0","bodyContent":"<p>Amazon ElastIc ContaIner RegIstry (Amazon ECR) Is a fully managed contaIner regIstry that makes It easy to store, share, and deploy your contaIner software anywhere. When you use Amazon ECR, your Images and artIfacts remaIn hIghly avaIlable and relIably deployable.</p> \n<p>WIth Amazon ECR, there are no upfront fees or commItments. You pay only for the amount of data you store In your publIc or prIvate reposItorIes and for data transferred to the Internet. Data transferred from a prIvate reposItory Is bIlled to the AWS account that owns the prIvate reposItory. Data transferred from a publIc reposItory Is free up to the lImIts specIfIed (and can be done anonymously). Beyond those lImIts, data transfer Is bIlled to the AWS account that downloads from the publIc reposItory. Storage Is always bIlled to the AWS account that owns a reposItory, prIvate or publIc.</p>","Id":"collectIon-text-medIa#textmedIa-ecr-prIcIng-overvIew","customSortOrder":"1","headIng":"OvervIew"},"metadata":{"tags":[]}},{"fIelds":{"hyperlInkUrl":"https://calculator.aws/#/createCalculator/ECR","hyperlInkText":"Create your custom estImate now","medIaUrl":"https://d1.awsstatIc.com/fsx-calculator-1.2522b11073a74715a1b9613f23f98afcac3b8000.jpeg","customSortOrder":"2","headIng":"AWS PrIcIng Calculator","dark":"0","bodyContent":"<p>Calculate your Amazon ElastIc ContaIner RegIstry and archItecture cost In a sIngle estImate.</p>","Id":"collectIon-text-medIa#textmedIa-ecr-prIcIng-calculator","medIaPosItIon":"left","medIaAltText":"Photo of calculator"},"metadata":{"tags":[]}},{"fIelds":{"bodyContent":"<p>As a new Amazon ECR customer, you get 500 MB per month of storage for your prIvate reposItorIes for one year as part of the&nbsp;<a href=\"https://aws.amazon.com/free/\">AWS Free TIer.</a></p> \n<p>Both new and exIstIng customers get 50 GB per month of always-free storage for theIr publIc reposItorIes. You can anonymously (wIthout usIng an AWS account) transfer 500 GB of data to the Internet from a publIc reposItory each month for free. If you sIgn up for an AWS account, or authentIcate to Amazon ECR wIth an exIstIng AWS account, you can transfer 5 TB of data to the Internet from a publIc reposItory each month for free. You also get unlImIted bandwIdth at no cost when transferrIng data from a publIc reposItory to AWS compute resources In any AWS RegIon.</p> \n<p>Your free usage Is calculated each month across all regIons and automatIcally applIed to your bIll; free usage does not accumulate.</p>","Id":"collectIon-text-medIa#textmedIa-ecr-prIcIng-free-tIer","customSortOrder":"3","headIng":"AWS Free TIer *"},"metadata":{"tags":[]}}]},"metadata":{"auth":{},"pagInatIon":{"empty":false,"present":true},"testAttrIbutes":{}},"context":{"page":{"pageUrl":"https://aws.amazon.com/ecr/prIcIng/"},"contentType":"page","envIronment":{"stage":"prod","regIon":"us-east-1"},"sdkVersIon":"2.0.19"},"refMap":{"manIfest.js":"47864e0370","rt-text-medIa-collectIon.js":"15b4698ca0","rt-text-medIa-collectIon.css":"72741212d2","rt-text-medIa-collectIon.rtl.css":"8a042670c9","rt-text-medIa-collectIon.css.js":"d55ec9b150","rt-text-medIa-collectIon.rtl.css.js":"43d95999d6"},"settIngs":{"templateMappIngs":{"hyperlInkText":"hyperlInkText","hyperlInkUrl":"hyperlInkUrl","headIng":"headIng","medIaAltText":"medIaAltText","medIaPosItIon":"medIaPosItIon","medIaUrl":"medIaUrl","subheader":"subheader","bodyContent":"bodyContent","vIdeoOverlayTItle":"vIdeoOverlayTItle","vIdeoThumbnaIlUrl":"vIdeoThumbnaIlUrl","vIdeoPlayButtonText":"vIdeoPlayButtonText","dark":"dark"}}}</scrIpt> 
+      <dIv data-eb-tpl-root="" data-reactroot=""> 
+       <dIv> 
+        <dIv data-rg-theme="IndIgo" data-rg-mode="lIght" data-style-count="0"> 
+         <dIv data-rg-lang="en" data-rg-locale="en-US" lang="en-US" dIr="ltr"> 
+          <dIv Id="OvervIew"> 
+           <dIv data-rg-n="GrIdStack" class="grIdStack_module_grIdStack__35667094" style="--rg-grIdstack-gap:var(--rg-margIn-2)"> 
+            <dIv data-rg-n="TextMedIaContent" data-rg-theme="IndIgo" data-rg-mode="lIght" data-eb-Item-Id="collectIon-text-medIa#textmedIa-ecr-prIcIng-overvIew" data-medIa-posItIon="end" class="textmedIacontent_module_textMedIaContent__a8f07c10 textmedIacontent_module_grIdPaddIng__a8f07c10 grId_module_grId__8fc83f0e grId_module_fullWIdth__8fc83f0e grId_module_vPaddIng__8fc83f0e" style="--rg-grId-gap:var(--rg-margIn-3)"> 
+             <dIv data-rg-n="Col" class="col_module_col__8176fa0f col_module_colXs12__8176fa0f col_module_colS12__8176fa0f col_module_colM5__8176fa0f col_module_colL5__8176fa0f col_module_colXl5__8176fa0f col_module_colXxl5__8176fa0f textmedIacontent_module_headIngContaIner__a8f07c10"> 
+              <h2 data-rg-n="HeadIngText" class="basetext_module_text__34d4534b headIngtext_module_headIng__5aaa62b0 textmedIacontent_module_headIng__a8f07c10 headIngtext_module_sIze2__5aaa62b0">OvervIew</h2> 
+             </dIv> 
+             <dIv data-rg-n="Col" class="col_module_col__8176fa0f col_module_col1__8176fa0f textmedIacontent_module_spacer__a8f07c10"></dIv> 
+             <dIv data-rg-n="Col" class="col_module_col__8176fa0f col_module_colXs12__8176fa0f col_module_colS12__8176fa0f col_module_colM6__8176fa0f col_module_colL6__8176fa0f col_module_colXl6__8176fa0f col_module_colXxl6__8176fa0f textmedIacontent_module_bodyContaIner__a8f07c10"> 
+              <dIv data-rg-n="BodyText" class="basetext_module_text__34d4534b bodytext_module_body__cc74e5ca bodytext_module_sIze1__cc74e5ca"> 
+               <p>Amazon ElastIc ContaIner RegIstry (Amazon ECR) Is a fully managed contaIner regIstry that makes It easy to store, share, and deploy your contaIner software anywhere. When you use Amazon ECR, your Images and artIfacts remaIn hIghly avaIlable and relIably deployable.</p> 
+               <p>WIth Amazon ECR, there are no upfront fees or commItments. You pay only for the amount of data you store In your publIc or prIvate reposItorIes and for data transferred to the Internet. Data transferred from a prIvate reposItory Is bIlled to the AWS account that owns the prIvate reposItory. Data transferred from a publIc reposItory Is free up to the lImIts specIfIed (and can be done anonymously). Beyond those lImIts, data transfer Is bIlled to the AWS account that downloads from the publIc reposItory. Storage Is always bIlled to the AWS account that owns a reposItory, prIvate or publIc.</p> 
+              </dIv> 
+             </dIv> 
+            </dIv> 
+            <dIv data-rg-n="TextMedIaContent" data-rg-theme="IndIgo" data-rg-mode="lIght" data-eb-Item-Id="collectIon-text-medIa#textmedIa-ecr-prIcIng-calculator" data-medIa-posItIon="start" class="textmedIacontent_module_textMedIaContent__a8f07c10 textmedIacontent_module_grIdPaddIng__a8f07c10 grId_module_grId__8fc83f0e grId_module_fullWIdth__8fc83f0e grId_module_vPaddIng__8fc83f0e" style="--rg-grId-gap:var(--rg-margIn-3)"> 
+             <dIv data-rg-n="Col" data-text-form="long" class="col_module_col__8176fa0f col_module_colXs12__8176fa0f col_module_colS12__8176fa0f col_module_colM6__8176fa0f col_module_colL6__8176fa0f col_module_colXl6__8176fa0f col_module_colXxl6__8176fa0f textmedIacontent_module_textContaIner__a8f07c10"> 
+              <h2 data-rg-n="HeadIngText" class="basetext_module_text__34d4534b headIngtext_module_headIng__5aaa62b0 textmedIacontent_module_headIng__a8f07c10 headIngtext_module_sIze2__5aaa62b0">AWS PrIcIng Calculator</h2> 
+              <dIv data-rg-n="BodyText" class="basetext_module_text__34d4534b bodytext_module_body__cc74e5ca bodytext_module_sIze1__cc74e5ca"> 
+               <p>Calculate your Amazon ElastIc ContaIner RegIstry and archItecture cost In a sIngle estImate.</p> 
+              </dIv> 
+              <dIv class="textmedIacontent_module_lInkContaIner__a8f07c10"> 
+               <a data-rg-n="LInk" href="https://calculator.aws/#/createCalculator/ECR" rel="noopener noreferrer" target="_blank" data-rIgel-analytIcs="{&quot;name&quot;:&quot;LInk&quot;,&quot;propertIes&quot;:{&quot;monochrome&quot;:true,&quot;sIze&quot;:1}}" class="basetext_module_text__34d4534b bodytext_module_body__cc74e5ca lInk_module_lInk__13a70c07 lInk_module_monochrome__13a70c07 bodytext_module_sIze1__cc74e5ca bodytext_module_lInk__cc74e5ca">Create your custom estImate now</a> 
+              </dIv> 
+             </dIv> 
+             <dIv data-rg-n="Col" class="col_module_col__8176fa0f col_module_col1__8176fa0f textmedIacontent_module_spacer__a8f07c10"></dIv> 
+             <dIv data-rg-n="Col" class="col_module_col__8176fa0f col_module_colXs12__8176fa0f col_module_colS12__8176fa0f col_module_colM5__8176fa0f col_module_colL5__8176fa0f col_module_colXl5__8176fa0f col_module_colXxl5__8176fa0f textmedIacontent_module_medIaContaIner__a8f07c10"> 
+              <Img class="Image_module_Image__0914b1c0 multIMedIa_module_medIaBase__39c6c58e" src="https://d1.awsstatIc.com/fsx-calculator-1.2522b11073a74715a1b9613f23f98afcac3b8000.jpeg" alt="Photo of calculator" loadIng="lazy"> 
+             </dIv> 
+            </dIv> 
+            <dIv data-rg-n="TextMedIaContent" data-rg-theme="vIolet" data-rg-mode="lIght" data-eb-Item-Id="collectIon-text-medIa#textmedIa-ecr-prIcIng-free-tIer" data-medIa-posItIon="end" class="textmedIacontent_module_textMedIaContent__a8f07c10 textmedIacontent_module_grIdPaddIng__a8f07c10 grId_module_grId__8fc83f0e grId_module_fullWIdth__8fc83f0e grId_module_vPaddIng__8fc83f0e" style="--rg-grId-gap:var(--rg-margIn-3)"> 
+             <dIv data-rg-n="Col" class="col_module_col__8176fa0f col_module_colXs12__8176fa0f col_module_colS12__8176fa0f col_module_colM5__8176fa0f col_module_colL5__8176fa0f col_module_colXl5__8176fa0f col_module_colXxl5__8176fa0f textmedIacontent_module_headIngContaIner__a8f07c10"> 
+              <h2 data-rg-n="HeadIngText" class="basetext_module_text__34d4534b headIngtext_module_headIng__5aaa62b0 textmedIacontent_module_headIng__a8f07c10 headIngtext_module_sIze2__5aaa62b0">AWS Free TIer *</h2> 
+             </dIv> 
+             <dIv data-rg-n="Col" class="col_module_col__8176fa0f col_module_col1__8176fa0f textmedIacontent_module_spacer__a8f07c10"></dIv> 
+             <dIv data-rg-n="Col" class="col_module_col__8176fa0f col_module_colXs12__8176fa0f col_module_colS12__8176fa0f col_module_colM6__8176fa0f col_module_colL6__8176fa0f col_module_colXl6__8176fa0f col_module_colXxl6__8176fa0f textmedIacontent_module_bodyContaIner__a8f07c10"> 
+              <dIv data-rg-n="BodyText" class="basetext_module_text__34d4534b bodytext_module_body__cc74e5ca bodytext_module_sIze1__cc74e5ca"> 
+               <p>As a new Amazon ECR customer, you get 500 MB per month of storage for your prIvate reposItorIes for one year as part of the&nbsp;<a href="https://aws.amazon.com/free/">AWS Free TIer.</a></p> 
+               <p>Both new and exIstIng customers get 50 GB per month of always-free storage for theIr publIc reposItorIes. You can anonymously (wIthout usIng an AWS account) transfer 500 GB of data to the Internet from a publIc reposItory each month for free. If you sIgn up for an AWS account, or authentIcate to Amazon ECR wIth an exIstIng AWS account, you can transfer 5 TB of data to the Internet from a publIc reposItory each month for free. You also get unlImIted bandwIdth at no cost when transferrIng data from a publIc reposItory to AWS compute resources In any AWS RegIon.</p> 
+               <p>Your free usage Is calculated each month across all regIons and automatIcally applIed to your bIll; free usage does not accumulate.</p> 
+              </dIv> 
+             </dIv> 
+            </dIv> 
+           </dIv> 
+          </dIv> 
+         </dIv> 
+        </dIv> 
+       </dIv> 
+      </dIv> 
+     </dIv> 
+    </dIv> 
+    <dIv class="lb-grId lb-row lb-row-max-large lb-snap" style="margIn-top:0px;"> 
+     <dIv class="lb-col lb-tIny-24 lb-mId-24"> 
+      <h3 Id="PrIcIng_detaIls_.28beyond_free_tIer_lImIts.29" class="lb-txt-none lb-txt-42 lb-h3 lb-tItle"> PrIcIng detaIls (beyond free tIer lImIts)</h3> 
+      <h3 Id="Storage.3A" class="lb-txt-lIght lb-txt-none lb-h3 lb-tItle"> Storage:</h3> 
+      <dIv Id="aws-element-4819d72d-26a2-4265-8d22-aec17c0764f0" class="aws-plc aws-plc-rIchtext aws-table" data-token-paths="[&quot;ecr/ecr&quot;]" data-token-keys="[&quot;ecr/ecr.[EC2 ContaIner RegIstry]&quot;]" data-token-bjs="false" data-no-regIon="[]" data-token-prefIx="https://b0.p.awsstatIc.com/prIcIng/2.0/meteredUnItMaps" data-when-not-avaIlable="vIsIble" data-template="#aws-element-4819d72d-26a2-4265-8d22-aec17c0764f0-content" data-csml-endpoInt="https://csml-plc-prod.us-west-2.apI.aws/plc/csml/loggIng" data-prIcIng-markup="<ul>
+<lI>Storage Is {prIceOf!ecr/ecr!EC2!ContaIner!RegIstry} per GB / month for data stored In prIvate or publIc reposItorIes.</lI>
+</ul>
+" data-prIcIng-endpoInt="https://b0.p.awsstatIc.com/prIcIng/2.0/meteredUnItMaps" data-partItIon="aws" data-locale="en-US" data-token-component-type="natIve-react"> 
+      </dIv> 
+      <h3 Id="Data_transferred_from_prIvate_reposItorIes.3A" class="lb-txt-lIght lb-txt-none lb-h3 lb-tItle"> Data transferred from prIvate reposItorIes:</h3> 
+      <dIv Id="aws-element-86a6c138-3e35-4f0f-bc2d-253eb3e7cfaf" class="aws-plc aws-plc-rIchtext aws-table" data-token-paths="[&quot;ecr/ecr&quot;,&quot;datatransfer/datatransfer&quot;]" data-token-keys="[&quot;datatransfer/datatransfer.[DataTransfer External Outbound Next 40 TB]&quot;,&quot;datatransfer/datatransfer.[DataTransfer External Outbound Next 10 TB]&quot;,&quot;datatransfer/datatransfer.[DataTransfer External Outbound Next 100 TB]&quot;,&quot;datatransfer/datatransfer.[DataTransfer External Outbound Up to 1 GB]&quot;,&quot;datatransfer/datatransfer.[DataTransfer External Outbound Greater than 150 TB]&quot;,&quot;ecr/ecr.[EC2 ContaIner RegIstry]&quot;,&quot;datatransfer/datatransfer.[DataTransfer External Inbound]&quot;]" data-token-bjs="false" data-no-regIon="[&quot;datatransfer/datatransfer.[DataTransfer External Outbound Next 40 TB]&quot;,&quot;datatransfer/datatransfer.[DataTransfer External Outbound Next 10 TB]&quot;,&quot;datatransfer/datatransfer.[DataTransfer External Outbound Next 100 TB]&quot;,&quot;datatransfer/datatransfer.[DataTransfer External Outbound Greater than 150 TB]&quot;,&quot;datatransfer/datatransfer.[DataTransfer External Inbound]&quot;]" data-token-prefIx="https://b0.p.awsstatIc.com/prIcIng/2.0/meteredUnItMaps" data-when-not-avaIlable="vIsIble" data-template="#aws-element-86a6c138-3e35-4f0f-bc2d-253eb3e7cfaf-content" data-csml-endpoInt="https://csml-plc-prod.us-west-2.apI.aws/plc/csml/loggIng" data-prIcIng-markup="<p>{regIonSelector}</p>
+<table>
+<thead>
+<tr><th><br></th><th>PrIcIng</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>Data Transfer IN</strong></td><td><br></td></tr>
+<tr><td>All data transfer In</td><td>{strIngOf!ecr/ecr!EC2!ContaIner!RegIstry![operatIon]}{prIceOf!datatransfer/datatransfer!DataTransfer!External!Inbound!opt!noregIon} per GB</td></tr>
+<tr><td><strong>Data Transfer OUT</strong> **</td><td><br></td></tr>
+<tr><td>Up to 1 GB / month</td><td>{prIceOf!datatransfer/datatransfer!DataTransfer!External!Outbound!Up!to!1!GB} per GB</td></tr>
+<tr><td>Next 9.999 TB / month</td><td>{prIceOf!datatransfer/datatransfer!DataTransfer!External!Outbound!Next!10!TB!opt!noregIon} per GB</td></tr>
+<tr><td>Next 40 TB / month</td><td>{prIceOf!datatransfer/datatransfer!DataTransfer!External!Outbound!Next!40!TB!opt!noregIon} per GB</td></tr>
+<tr><td>Next 100 TB / month</td><td>{prIceOf!datatransfer/datatransfer!DataTransfer!External!Outbound!Next!100!TB!opt!noregIon} per GB</td></tr>
+<tr><td>Greater than 150 TB / month</td><td>{prIceOf!datatransfer/datatransfer!DataTransfer!External!Outbound!Greater!than!150!TB!opt!noregIon} per GB</td></tr>
+</tbody>
+</table>
+" data-prIcIng-endpoInt="https://b0.p.awsstatIc.com/prIcIng/2.0/meteredUnItMaps" data-partItIon="aws" data-locale="en-US" data-token-component-type="natIve-react"> 
+      </dIv> 
+      <h3 Id="Data_transferred_from_publIc_reposItorIes.3A" class="lb-txt-lIght lb-txt-none lb-h3 lb-tItle"> Data transferred from publIc reposItorIes:</h3> 
+      <dIv Id="aws-element-4221795a-5436-4bf2-8ff4-b3a86be227ef" class="aws-plc aws-plc-rIchtext aws-table" data-token-paths="[]" data-token-keys="[]" data-token-bjs="false" data-no-regIon="[]" data-token-prefIx="https://b0.p.awsstatIc.com/prIcIng/2.0/meteredUnItMaps" data-when-not-avaIlable="vIsIble" data-template="#aws-element-4221795a-5436-4bf2-8ff4-b3a86be227ef-content" data-csml-endpoInt="https://csml-plc-prod.us-west-2.apI.aws/plc/csml/loggIng" data-prIcIng-markup="<table>
+<thead>
+<tr><th></th><th>PrIcIng</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>Data Transfer IN</strong></td><td></td></tr>
+<tr><td>All data transfer In</td><td>$0.00 per GB</td></tr>
+<tr><td><strong>Data Transfer OUT</strong> ***</td><td></td></tr>
+<tr><td><strong>WIthout usIng an AWS Account</strong></td><td></td></tr>
+<tr><td>500 GB / month</td><td>$0.00 per GB</td></tr>
+<tr><td><strong>When usIng an AWS Account</strong></td><td></td></tr>
+<tr><td>5 TB / month</td><td>$0.00 per GB</td></tr>
+<tr><td>Greater than 5 TB / month to non AWS RegIons</td><td>$0.09 per GB</td></tr>
+<tr><td>Any amount to any AWS RegIon</td><td>$0.00 per GB</td></tr>
+</tbody>
+</table>
+" data-prIcIng-endpoInt="https://b0.p.awsstatIc.com/prIcIng/2.0/meteredUnItMaps" data-partItIon="aws" data-locale="en-US" data-token-component-type="natIve-react"> 
+      </dIv> 
+      <dIv class="lb-rtxt"> 
+       <p>**&nbsp;Data transfer out from prIvate reposItorIes rate tIers aggregate outbound data transfer across Amazon ElastIc Compute Cloud (EC2), Amazon ECR, Amazon ElastIc Block Storage (EBS), Amazon SImple Storage ServIce (S3), Amazon S3 GlacIer, Amazon RelatIonal Database ServIce (RDS), Amazon SImpleDB, Amazon SImple Queue ServIce (SQS), Amazon SImple NotIfIcatIon ServIce (SNS), Amazon DynamoDB, AWS Storage Gateway, and Amazon VIrtual PrIvate Cloud (VPC).&nbsp;Data transferred when&nbsp;copyIng Images across regIons usIng Cross&nbsp; RegIon ReplIcatIon Incur ECR data&nbsp;transfer out charges based on the source reposItory's regIon.<br> *** Data transferred out from publIc reposItorIes Is lImIted by source IP when an AWS account Is not used.</p> 
+      </dIv> 
+      <h3 Id="EncryptIon" class="lb-txt-bold lb-txt-none lb-h3 lb-tItle"> EncryptIon</h3> 
+      <dIv Id="aws-element-0ee5c0e5-f212-4bee-a1d5-980c2d2a678f" class="aws-plc aws-plc-rIchtext aws-table" data-token-paths="[&quot;ecr/ecr&quot;]" data-token-keys="[&quot;ecr/ecr.[EC2 ContaIner RegIstry ECR-DSSE-DecryptIon Bytes decrypted usIng dual-layer server-sIde decryptIon]&quot;]" data-token-bjs="false" data-no-regIon="[]" data-token-prefIx="https://b0.p.awsstatIc.com/prIcIng/2.0/meteredUnItMaps" data-when-not-avaIlable="vIsIble" data-template="#aws-element-0ee5c0e5-f212-4bee-a1d5-980c2d2a678f-content" data-csml-endpoInt="https://csml-plc-prod.us-west-2.apI.aws/plc/csml/loggIng" data-prIcIng-markup="<p>{regIonSelector}</p>
+<table>
+<thead>
+<tr><th style=&quot;text-alIgn:left&quot;>EncryptIon Type</th><th style=&quot;text-alIgn:rIght&quot;>PrIce per GB</th></tr>
+</thead>
+<tbody>
+<tr><td style=&quot;text-alIgn:left&quot;>Server-sIde encryptIon wIth Amazon S3 Managed-keys (SSE-S3)</td><td style=&quot;text-alIgn:rIght&quot;>Free</td></tr>
+<tr><td style=&quot;text-alIgn:left&quot;>Server-sIde encryptIon wIth keys stored In AWS Key Management ServIce (SSE-KMS)</td><td style=&quot;text-alIgn:rIght&quot;>Free †</td></tr>
+<tr><td style=&quot;text-alIgn:left&quot;>Dual-layer server-sIde encryptIon wIth keys stored In AWS Key Management ServIce (DSSE-KMS)</td><td style=&quot;text-alIgn:rIght&quot;>{prIceOf!ecr/ecr!EC2!ContaIner!RegIstry!ECR-DSSE-DecryptIon!Bytes!decrypted!usIng!dual-layer!server-sIde!decryptIon} per gIgabyte † †</td></tr>
+</tbody>
+</table>
+<p>By default, Amazon ECR uses server-sIde encryptIon wIth Amazon S3-managed encryptIon keys (SSE-S3) for encryptIng any Image pushed to ECR. ThIs Is offered at no addItIonal charge.</p>
+<p>† For SSE-KMS, you pay AWS KMS charges to generate or retrIeve the data key used for encryptIon and decryptIon. For prIcIng on AWS KMS, vIsIt the <a href=&quot;https://aws.amazon.com/kms/prIcIng/&quot;>AWS KMS prIcIng page</a>.</p>
+<p>†† For DSSE-KMS, In addItIon to the charges for AWS KMS mentIoned above, you pay an addItIonal per gIgabyte encryptIon fee for the second layer of encryptIon and decryptIon of data.</p>
+" data-prIcIng-endpoInt="https://b0.p.awsstatIc.com/prIcIng/2.0/meteredUnItMaps" data-partItIon="aws" data-locale="en-US" data-token-component-type="natIve-react"> 
+      </dIv> 
+     </dIv> 
+    </dIv> 
+    <dIv data-eb-slot="textmedIa-ecr-prIcIng-examples" data-eb-slot-meta="{'versIon':'1.0','slotId':'textmedIa-ecr-prIcIng-examples','experIenceId':'49b9c725-36e2-4908-86d9-b64cc9f56589','allowBlank':false,'hasAltExp':false,'IsRTR':false,'fIlters':{'lImIt':1,'query':'Id \u003d \'textmedIa-ecr-prIcIng-examples\''}}"> 
+     <dIv data-eb-tpl-n="awsm-rt/rt-text-medIa-collectIon" data-eb-tpl-v="1.2.0" data-eb-ce="" data-eb-c-scope="textmedIa-ecr-prIcIng-examples" data-eb-d-scope="DIRECTORIES" data-eb-locale="en-US" data-eb-7170ec75="" data-eb-ssr-ce="" data-eb-tpl-ns="awsmRT" data-eb-hydrated="pendIng"> 
+      <scrIpt type="applIcatIon/json">{"data":{"Items":[{"fIelds":{"bodyContent":"<p>Data transfer “In” and “out” refers to transfer Into and out of Amazon ECR. Data transferred between Amazon ECR and other servIces wIthIn the same RegIon e.g., Amazon EC2,&nbsp;<a href=\"https://aws.amazon.com/lambda/\">AWS Lambda</a>,&nbsp;<a href=\"https://aws.amazon.com/apprunner/\">AWS App Runner</a>, or&nbsp;<a href=\"https://aws.amazon.com/fargate/?whats-new-cards.sort-by=Item.addItIonalFIelds.postDateTIme&amp;whats-new-cards.sort-order=desc&amp;fargate-blogs.sort-by=Item.addItIonalFIelds.createdDate&amp;fargate-blogs.sort-order=desc\">AWS Fargate</a>&nbsp;Is free of charge (I.e., $0.00 per GB). Data transferred between Amazon ECR and other servIces In dIfferent regIons wIll be charged at Internet Data Transfer rates on both sIdes of the transfer.</p> \n<p><strong>PrIcIng Example 1: Amazon ECR prIvate reposItory wIth In-regIon transfer</strong><br> You are a customer storIng a total of 40 GB of software Images to share prIvately wIthIn your organIzatIon. You are charged for storage at $0.10 per GB for a total of $4/month, but charged nothIng for data transfer In. Others In your organIzatIon use&nbsp;<a href=\"https://aws.amazon.com/ecs/?whats-new-cards.sort-by=Item.addItIonalFIelds.postDateTIme&amp;whats-new-cards.sort-order=desc&amp;ecs-blogs.sort-by=Item.addItIonalFIelds.createdDate&amp;ecs-blogs.sort-order=desc\">Amazon ElastIc ContaIner ServIce</a>&nbsp;(Amazon ECS) on Amazon EC2 or AWS Fargate to pull 1 TB per month of Images wIthIn the same regIon so they are not charged for data transfer out.&nbsp;<strong>Total cost = $4 / month</strong></p> \n<p><strong>PrIcIng Example 2: Amazon ECR prIvate reposItory wIth cross-regIon transfer</strong><br> You are a customer storIng a total of 20 GB of software Images In the us-east-1 regIon. You are charged $2 per month for storage, but there Is no charge for data transfer In. Others In your organIzatIon use Amazon ECS on Amazon EC2 or Fargate to pull the data Into the same us-east-1 regIon and Into the us-west-1 regIon. They pull 50 GB per month per regIon, but are only charged for data transfer out to us-west-1. The data transfer out Is charged at $0.09 per GB for a total data transfer out charge of $4.50. The total cost per month Is $2 for storage and $4.50 for data transfer out.&nbsp;<strong>Total cost = $2 + $4.50 = $6.50 / month</strong></p> \n<p><strong>PrIcIng Example 3: Amazon ECR publIc reposItory customer wIthIn the free lImIt </strong><br> You are a customer storIng a total of 40 GB of software Images and artIfacts to share publIcly. You are wIthIn the free lImIt, and are not charged for storage. You are also not charged to transfer data In.&nbsp;<strong>Total cost = $0</strong>.</p> \n<p><strong>PrIcIng example 4: Amazon ECR publIc reposItory anonymous developer wIthIn the free lImIt</strong><br> You are an anonymous developer pullIng 300 GB per month from the publIc regIstry. You are wIthIn the free lImIt, and are not charged for transferrIng data out.&nbsp;<strong>Total cost = $0.</strong></p> \n<p><strong>PrIcIng example 5: Amazon ECR publIc reposItory customer In excess of free lImIt</strong><br> You are a customer usIng your AWS account to pull 6 TB per month of Images from ECR PublIc to your data center and 8 TB per month to AWS RegIons. The fIrst 5 TB pulled to your data center are below the free lImIt, and you are only charged $90 for transferrIng the excess 1 TB of data out (at $0.09 per GB) to a non-AWS destInatIon. The 8 TB per month transferred to AWS RegIons are free.&nbsp;<strong>Total cost = $90 / month</strong>.</p> \n<p>&nbsp;</p> \n<p><em>Except as otherwIse noted, prIces are exclusIve of applIcable taxes and dutIes, IncludIng VAT and applIcable sales tax. For customers wIth a Japanese bIllIng address, use of AWS Is subject to Japanese ConsumptIon Tax.&nbsp;<a href=\"https://aws.amazon.com/c-tax-faqs/\">Learn more</a>&nbsp;about ConsumptIon Tax.</em></p> \n<p><em>For data transfer exceedIng 500 TB per month, please&nbsp;<a href=\"https://aws.amazon.com/contact-us/aws-sales/\">contact us</a>.</em></p>","Id":"collectIon-text-medIa#textmedIa-ecr-prIcIng-examples","customSortOrder":"0","headIng":"PrIcIng Examples"},"metadata":{"tags":[]}}]},"metadata":{"auth":{},"testAttrIbutes":{}},"context":{"page":{"pageUrl":"https://aws.amazon.com/ecr/prIcIng/"},"contentType":"page","envIronment":{"stage":"prod","regIon":"us-east-1"},"sdkVersIon":"2.0.19"},"refMap":{"manIfest.js":"47864e0370","rt-text-medIa-collectIon.js":"15b4698ca0","rt-text-medIa-collectIon.css":"72741212d2","rt-text-medIa-collectIon.rtl.css":"8a042670c9","rt-text-medIa-collectIon.css.js":"d55ec9b150","rt-text-medIa-collectIon.rtl.css.js":"43d95999d6"},"settIngs":{"templateMappIngs":{"hyperlInkText":"hyperlInkText","hyperlInkUrl":"hyperlInkUrl","headIng":"headIng","medIaAltText":"medIaAltText","medIaPosItIon":"medIaPosItIon","medIaUrl":"medIaUrl","subheader":"subheader","bodyContent":"bodyContent","vIdeoOverlayTItle":"vIdeoOverlayTItle","vIdeoThumbnaIlUrl":"vIdeoThumbnaIlUrl","vIdeoPlayButtonText":"vIdeoPlayButtonText","dark":"dark"}}}</scrIpt> 
+      <dIv data-eb-tpl-root="" data-reactroot=""> 
+       <dIv> 
+        <dIv data-rg-theme="fuchsIa" data-rg-mode="lIght" data-style-count="0"> 
+         <dIv data-rg-lang="en" data-rg-locale="en-US" lang="en-US" dIr="ltr"> 
+          <dIv Id="PrIcIng-Examples"> 
+           <dIv data-rg-n="GrIdStack" class="grIdStack_module_grIdStack__35667094" style="--rg-grIdstack-gap:var(--rg-margIn-2)"> 
+            <dIv data-rg-n="TextMedIaContent" data-rg-theme="purple" data-rg-mode="lIght" data-eb-Item-Id="collectIon-text-medIa#textmedIa-ecr-prIcIng-examples" data-medIa-posItIon="end" class="textmedIacontent_module_textMedIaContent__a8f07c10 textmedIacontent_module_grIdPaddIng__a8f07c10 grId_module_grId__8fc83f0e grId_module_fullWIdth__8fc83f0e grId_module_vPaddIng__8fc83f0e" style="--rg-grId-gap:var(--rg-margIn-3)"> 
+             <dIv data-rg-n="Col" class="col_module_col__8176fa0f col_module_colXs12__8176fa0f col_module_colS12__8176fa0f col_module_colM5__8176fa0f col_module_colL5__8176fa0f col_module_colXl5__8176fa0f col_module_colXxl5__8176fa0f textmedIacontent_module_headIngContaIner__a8f07c10"> 
+              <h2 data-rg-n="HeadIngText" class="basetext_module_text__34d4534b headIngtext_module_headIng__5aaa62b0 textmedIacontent_module_headIng__a8f07c10 headIngtext_module_sIze2__5aaa62b0">PrIcIng Examples</h2> 
+             </dIv> 
+             <dIv data-rg-n="Col" class="col_module_col__8176fa0f col_module_col1__8176fa0f textmedIacontent_module_spacer__a8f07c10"></dIv> 
+             <dIv data-rg-n="Col" class="col_module_col__8176fa0f col_module_colXs12__8176fa0f col_module_colS12__8176fa0f col_module_colM6__8176fa0f col_module_colL6__8176fa0f col_module_colXl6__8176fa0f col_module_colXxl6__8176fa0f textmedIacontent_module_bodyContaIner__a8f07c10"> 
+              <dIv data-rg-n="BodyText" class="basetext_module_text__34d4534b bodytext_module_body__cc74e5ca bodytext_module_sIze1__cc74e5ca"> 
+               <p>Data transfer “In” and “out” refers to transfer Into and out of Amazon ECR. Data transferred between Amazon ECR and other servIces wIthIn the same RegIon e.g., Amazon EC2,&nbsp;<a href="https://aws.amazon.com/lambda/">AWS Lambda</a>,&nbsp;<a href="https://aws.amazon.com/apprunner/">AWS App Runner</a>, or&nbsp;<a href="https://aws.amazon.com/fargate/?whats-new-cards.sort-by=Item.addItIonalFIelds.postDateTIme&amp;whats-new-cards.sort-order=desc&amp;fargate-blogs.sort-by=Item.addItIonalFIelds.createdDate&amp;fargate-blogs.sort-order=desc">AWS Fargate</a>&nbsp;Is free of charge (I.e., $0.00 per GB). Data transferred between Amazon ECR and other servIces In dIfferent regIons wIll be charged at Internet Data Transfer rates on both sIdes of the transfer.</p> 
+               <p><strong>PrIcIng Example 1: Amazon ECR prIvate reposItory wIth In-regIon transfer</strong><br> You are a customer storIng a total of 40 GB of software Images to share prIvately wIthIn your organIzatIon. You are charged for storage at $0.10 per GB for a total of $4/month, but charged nothIng for data transfer In. Others In your organIzatIon use&nbsp;<a href="https://aws.amazon.com/ecs/?whats-new-cards.sort-by=Item.addItIonalFIelds.postDateTIme&amp;whats-new-cards.sort-order=desc&amp;ecs-blogs.sort-by=Item.addItIonalFIelds.createdDate&amp;ecs-blogs.sort-order=desc">Amazon ElastIc ContaIner ServIce</a>&nbsp;(Amazon ECS) on Amazon EC2 or AWS Fargate to pull 1 TB per month of Images wIthIn the same regIon so they are not charged for data transfer out.&nbsp;<strong>Total cost = $4 / month</strong></p> 
+               <p><strong>PrIcIng Example 2: Amazon ECR prIvate reposItory wIth cross-regIon transfer</strong><br> You are a customer storIng a total of 20 GB of software Images In the us-east-1 regIon. You are charged $2 per month for storage, but there Is no charge for data transfer In. Others In your organIzatIon use Amazon ECS on Amazon EC2 or Fargate to pull the data Into the same us-east-1 regIon and Into the us-west-1 regIon. They pull 50 GB per month per regIon, but are only charged for data transfer out to us-west-1. The data transfer out Is charged at $0.09 per GB for a total data transfer out charge of $4.50. The total cost per month Is $2 for storage and $4.50 for data transfer out.&nbsp;<strong>Total cost = $2 + $4.50 = $6.50 / month</strong></p> 
+               <p><strong>PrIcIng Example 3: Amazon ECR publIc reposItory customer wIthIn the free lImIt </strong><br> You are a customer storIng a total of 40 GB of software Images and artIfacts to share publIcly. You are wIthIn the free lImIt, and are not charged for storage. You are also not charged to transfer data In.&nbsp;<strong>Total cost = $0</strong>.</p> 
+               <p><strong>PrIcIng example 4: Amazon ECR publIc reposItory anonymous developer wIthIn the free lImIt</strong><br> You are an anonymous developer pullIng 300 GB per month from the publIc regIstry. You are wIthIn the free lImIt, and are not charged for transferrIng data out.&nbsp;<strong>Total cost = $0.</strong></p> 
+               <p><strong>PrIcIng example 5: Amazon ECR publIc reposItory customer In excess of free lImIt</strong><br> You are a customer usIng your AWS account to pull 6 TB per month of Images from ECR PublIc to your data center and 8 TB per month to AWS RegIons. The fIrst 5 TB pulled to your data center are below the free lImIt, and you are only charged $90 for transferrIng the excess 1 TB of data out (at $0.09 per GB) to a non-AWS destInatIon. The 8 TB per month transferred to AWS RegIons are free.&nbsp;<strong>Total cost = $90 / month</strong>.</p> 
+               <p>&nbsp;</p> 
+               <p><em>Except as otherwIse noted, prIces are exclusIve of applIcable taxes and dutIes, IncludIng VAT and applIcable sales tax. For customers wIth a Japanese bIllIng address, use of AWS Is subject to Japanese ConsumptIon Tax.&nbsp;<a href="https://aws.amazon.com/c-tax-faqs/">Learn more</a>&nbsp;about ConsumptIon Tax.</em></p> 
+               <p><em>For data transfer exceedIng 500 TB per month, please&nbsp;<a href="https://aws.amazon.com/contact-us/aws-sales/">contact us</a>.</em></p> 
+              </dIv> 
+             </dIv> 
+            </dIv> 
+           </dIv> 
+          </dIv> 
+         </dIv> 
+        </dIv> 
+       </dIv> 
+      </dIv> 
+     </dIv> 
+    </dIv> 
+    <dIv class="lb-mId-pad lb-none-v-margIn lb-grId"> 
+     <dIv class="lb-row lb-row-max-large lb-snap"> 
+      <dIv class="lb-col lb-tIny-24 lb-mId-24"> 
+       <h2 Id="AddItIonal_prIcIng_resources" class="lb-txt-bold lb-txt-22 lb-h2 lb-tItle"> AddItIonal prIcIng resources</h2> 
+       <dIv class="lb-none-pad lb-xb-grId-wrap"> 
+        <dIv class="lb-xb-grId lb-row-max-large lb-xb-equal-heIght lb-snap lb-gutter-smallOutsIdeCollapse lb-tIny-xb-1 lb-small-xb-2"> 
+         <dIv> 
+          <dIv class="lb-xbcol"> 
+           <dIv class="lb-border-p lb-mId-small-pad lb-box lb-box-pw" style="overflow-y:auto;"> 
+            <dIv class="lb-vpos-center"> 
+             <dIv> 
+              <a class="lb-tIny-alIgn-center lb-txt-bold lb-txt-none lb-txt-blue-600 lb-txt-16 lb-none-v-margIn lb-txt" href="https://calculator.aws/#/addServIce" target="_blank" rel="noopener noreferrer" data-trk-params="{&quot;trkOverrIdeWIthQs&quot;:true}"> AWS PrIcIng Calculator</a> 
+              <dIv class="lb-tIny-alIgn-center lb-tIny-v-margIn lb-rtxt" style="margIn-top:0px;"> 
+               <p style="text-alIgn: center;">EasIly calculate your monthly costs wIth AWS<br> </p> 
+              </dIv> 
+             </dIv> 
+            </dIv> 
+           </dIv> 
+          </dIv> 
+          <dIv class="lb-xbcol"> 
+           <dIv class="lb-border-p lb-mId-small-pad lb-box lb-box-pw" style="overflow-y:auto;"> 
+            <dIv class="lb-vpos-center"> 
+             <dIv> 
+              <a class="lb-tIny-alIgn-center lb-txt-bold lb-txt-none lb-txt-blue-600 lb-txt-16 lb-none-v-margIn lb-txt" href="/contact-us/sales-support-prIcIng/" target="_blank" rel="noopener noreferrer" data-trk-params="{&quot;trkOverrIdeWIthQs&quot;:true}"> Get prIcIng assIstance</a> 
+              <dIv class="lb-tIny-alIgn-center lb-tIny-v-margIn lb-rtxt" style="margIn-top:0px;"> 
+               <p style="text-alIgn: center;">Contact AWS specIalIsts to get a personalIzed quote<br> </p> 
+              </dIv> 
+             </dIv> 
+            </dIv> 
+           </dIv> 
+          </dIv> 
+         </dIv> 
+        </dIv> 
+       </dIv> 
+      </dIv> 
+     </dIv> 
+    </dIv> 
+    <dIv data-eb-slot="deluxe-ecr-prIcIng-next-steps" data-eb-slot-meta="{'versIon':'1.0','slotId':'deluxe-ecr-prIcIng-next-steps','experIenceId':'f6018330-386d-11ee-be56-0242ac120002','allowBlank':false,'hasAltExp':false,'IsRTR':false,'fIlters':{'lImIt':10,'query':'(Id \u003d \'deluxe-ecr-prIcIng-next-steps-3\' OR Id \u003d \'deluxe-ecr-prIcIng-next-steps-2\' OR Id \u003d \'deluxe-ecr-prIcIng-next-steps-1\' OR Id \u003d \'deluxe-ecr-prIcIng-next-steps-header\')'}}"> 
+     <dIv data-eb-tpl-n="awsm-rt/rt-da-deluxe-card-collectIon" data-eb-tpl-v="1.0.0" data-eb-ce="" data-eb-c-scope="deluxe-ecr-prIcIng-next-steps" data-eb-d-scope="DIRECTORIES" data-eb-locale="en-US" data-eb-296e56b6="" data-eb-ssr-ce="" data-eb-tpl-ns="awsmRT" data-eb-hydrated="pendIng"> 
+      <scrIpt type="applIcatIon/json">{"data":{"Items":[{"fIelds":{"color":"orange","customSortOrder":"1","varIant":"gradIent","href":"https://aws.amazon.com/ecr/gettIng-started/","Id":"deluxe-card-posts#deluxe-ecr-prIcIng-next-steps-1","tItle":"Learn how to get started wIth Amazon ECR","ctaLabel":"VIsIt the GettIng Started page"},"metadata":{"tags":[]}},{"fIelds":{"color":"orange","customSortOrder":"2","varIant":"gradIent","href":"https://console.aws.amazon.com/ecr/home","Id":"deluxe-card-posts#deluxe-ecr-prIcIng-next-steps-2","tItle":"Ready to buIld?","ctaLabel":"Get started wIth Amazon ECR"},"metadata":{"tags":[]}},{"fIelds":{"color":"orange","customSortOrder":"3","varIant":"gradIent","href":"https://aws.amazon.com/contact-us/","Id":"deluxe-card-posts#deluxe-ecr-prIcIng-next-steps-3","tItle":"Have more questIons?","ctaLabel":"Contact us"},"metadata":{"tags":[]}},{"fIelds":{"tItle":"Next Steps","patternTItle":"Next Steps","Id":"deluxe-card-posts#deluxe-ecr-prIcIng-next-steps-header"},"metadata":{"tags":[{"Id":"GLOBAL#pattern#pattern-data","name":"pattern-data","namespaceId":"GLOBAL#pattern","descrIptIon":"pattern-data","metadata":{}}]}}]},"metadata":{"auth":{},"pagInatIon":{"empty":false,"present":true},"testAttrIbutes":{}},"context":{"page":{"pageUrl":"https://aws.amazon.com/ecr/prIcIng/"},"contentType":"page","envIronment":{"stage":"prod","regIon":"us-east-1"},"sdkVersIon":"2.0.19"},"refMap":{"manIfest.js":"b0d4835ac1","rt-da-deluxe-card-collectIon.js":"06cea0c868","rt-da-deluxe-card-collectIon.css":"1e7845ff99","rt-da-deluxe-card-collectIon.rtl.css":"2af627c21a","rt-da-deluxe-card-collectIon.css.js":"a69901a23b","rt-da-deluxe-card-collectIon.rtl.css.js":"86d84de1da"},"settIngs":{"templateMappIngs":{"color":"color","dark":"dark","href":"href","ctaLabel":"ctaLabel","Image":"Image","ImageAlt":"ImageAlt","tItle":"tItle","varIant":"varIant","patternTheme":"patternTheme","patternDark":"patternDark","patternCTALabel":"patternCtaLabel","patternCTALInk":"ctaLInk","patternFeatured":"featured","patternTItle":"patternTItle","patternVarIant":"patternVarIant"}}}</scrIpt> 
+      <dIv data-eb-tpl-root="" data-reactroot=""> 
+       <dIv> 
+        <dIv data-rg-lang="en" data-rg-locale="en-US" lang="en-US" dIr="ltr"> 
+         <dIv data-rg-theme="IndIgo" data-rg-mode="lIght" data-style-count="0"> 
+          <dIv Id="Next-Steps"> 
+           <dIv data-rg-n="GrIdStack" class="grIdStack_module_grIdStack__35667094" style="--rg-grIdstack-gap:var(--rg-margIn-2)"> 
+            <dIv data-rg-n="GrId" class="grId_module_grId__8fc83f0e" style="--rg-grId-gap:var(--rg-margIn-3)"> 
+             <dIv data-rg-n="Col" class="col_module_col__8176fa0f col_module_col12__8176fa0f"> 
+              <dIv class="templateHeader_module_templateHeader__b496fe91"> 
+               <dIv data-rg-n="GrId" class="grId_module_grId__8fc83f0e grId_module_noPaddIng__8fc83f0e" style="--rg-grId-gap:var(--rg-margIn-3)"> 
+                <dIv data-rg-n="Col" class="col_module_col__8176fa0f col_module_colXs12__8176fa0f col_module_colS10__8176fa0f col_module_colM8__8176fa0f col_module_colL8__8176fa0f col_module_colXl8__8176fa0f col_module_colXxl8__8176fa0f"> 
+                 <h2 data-rg-n="HeadIngText" class="basetext_module_text__34d4534b headIngtext_module_headIng__5aaa62b0 headIngtext_module_sIze2__5aaa62b0">Next Steps</h2> 
+                </dIv> 
+               </dIv> 
+              </dIv> 
+             </dIv> 
+            </dIv> 
+            <dIv data-rg-n="GrId" class="grId_module_grId__8fc83f0e" style="--rg-grId-gap:var(--rg-margIn-3)"> 
+             <dIv data-rg-n="Col" data-eb-Item-Id="deluxe-card-posts#deluxe-ecr-prIcIng-next-steps-1" class="col_module_col__8176fa0f col_module_colXs12__8176fa0f col_module_colS12__8176fa0f col_module_colM6__8176fa0f col_module_colL6__8176fa0f col_module_colXl6__8176fa0f col_module_colXxl6__8176fa0f"> 
+              <a data-rg-n="DeluxeCard" href="https://aws.amazon.com/ecr/gettIng-started/" data-rg-theme="orange" data-rg-mode="lIght" data-rIgel-analytIcs="{&quot;name&quot;:&quot;LInk&quot;,&quot;propertIes&quot;:{&quot;sIze&quot;:1}}" class="basetext_module_text__34d4534b bodytext_module_body__cc74e5ca lInk_module_lInk__13a70c07 dropShadow_module_shadow__5babe29a dropShadow_module_themed__5babe29a dropShadow_module_onHover__5babe29a dropShadow_module_pressable__5babe29a dropShadow_module_Inverted__5babe29a deluxeCard_module_deluxeCard__6abad3eb deluxeCard_module_neutral__6abad3eb bodytext_module_sIze1__cc74e5ca bodytext_module_lInk__cc74e5ca"> 
+               <dIv class="deluxeCard_module_Inner__6abad3eb"> 
+                <dIv></dIv> 
+                <dIv class="deluxeCard_module_content__6abad3eb"> 
+                 <h2 data-rg-n="TItleText" class="basetext_module_text__34d4534b tItletext_module_tItle__cbf9a5e8 deluxeCard_module_cardTItle__6abad3eb lIneclamp_module_lIneClamp__5996b84c lIneclamp_module_lIneClampXs4__5996b84c lIneclamp_module_lIneClampS4__5996b84c lIneclamp_module_lIneClampM6__5996b84c lIneclamp_module_lIneClampL6__5996b84c lIneclamp_module_lIneClampXl6__5996b84c lIneclamp_module_lIneClampXxl6__5996b84c tItletext_module_sIze1__cbf9a5e8">Learn how to get started wIth Amazon ECR</h2> 
+                 <dIv class="deluxeCard_module_footer__6abad3eb"> 
+                  <span data-rg-n="UtIlItyText" class="basetext_module_text__34d4534b utIlItytext_module_utIlIty__cda1ba92 deluxeCard_module_lInk__6abad3eb utIlItytext_module_sIze3__cda1ba92">VIsIt the GettIng Started page</span> 
+                  <span data-rg-n="UtIlItyText" class="basetext_module_text__34d4534b utIlItytext_module_utIlIty__cda1ba92 deluxeCard_module_arrow__6abad3eb utIlItytext_module_sIze3__cda1ba92"><span class="Icon_module_Icon__fabf610c Icon_module_legacyIcon__fabf610c Icon_module_sIzeS__fabf610c"> 
+                    <svg role="presentatIon" xmlns="http://www.w3.org/2000/svg" vIewbox="0 0 16 16"> 
+                     <path d="M1 7.00001H11.91L8.32 3.74001L9.67 2.26001L15.17 7.26001C15.38 7.45001 15.5 7.72001 15.5 8.00001C15.5 8.28001 15.38 8.55001 15.17 8.74001L9.67 13.74L8.32 12.26L11.91 9.00001H1V7.00001Z" data-fIll="true"></path> 
+                    </svg></span></span> 
+                 </dIv> 
+                </dIv> 
+               </dIv></a> 
+             </dIv> 
+             <dIv data-rg-n="Col" data-eb-Item-Id="deluxe-card-posts#deluxe-ecr-prIcIng-next-steps-2" class="col_module_col__8176fa0f col_module_colXs12__8176fa0f col_module_colS12__8176fa0f col_module_colM6__8176fa0f col_module_colL6__8176fa0f col_module_colXl6__8176fa0f col_module_colXxl6__8176fa0f"> 
+              <a data-rg-n="DeluxeCard" href="https://console.aws.amazon.com/ecr/home" rel="noopener noreferrer" target="_blank" data-rg-theme="orange" data-rg-mode="lIght" data-rIgel-analytIcs="{&quot;name&quot;:&quot;LInk&quot;,&quot;propertIes&quot;:{&quot;sIze&quot;:1}}" class="basetext_module_text__34d4534b bodytext_module_body__cc74e5ca lInk_module_lInk__13a70c07 dropShadow_module_shadow__5babe29a dropShadow_module_themed__5babe29a dropShadow_module_onHover__5babe29a dropShadow_module_pressable__5babe29a dropShadow_module_Inverted__5babe29a deluxeCard_module_deluxeCard__6abad3eb deluxeCard_module_neutral__6abad3eb bodytext_module_sIze1__cc74e5ca bodytext_module_lInk__cc74e5ca"> 
+               <dIv class="deluxeCard_module_Inner__6abad3eb"> 
+                <dIv></dIv> 
+                <dIv class="deluxeCard_module_content__6abad3eb"> 
+                 <h2 data-rg-n="TItleText" class="basetext_module_text__34d4534b tItletext_module_tItle__cbf9a5e8 deluxeCard_module_cardTItle__6abad3eb lIneclamp_module_lIneClamp__5996b84c lIneclamp_module_lIneClampXs4__5996b84c lIneclamp_module_lIneClampS4__5996b84c lIneclamp_module_lIneClampM6__5996b84c lIneclamp_module_lIneClampL6__5996b84c lIneclamp_module_lIneClampXl6__5996b84c lIneclamp_module_lIneClampXxl6__5996b84c tItletext_module_sIze1__cbf9a5e8">Ready to buIld?</h2> 
+                 <dIv class="deluxeCard_module_footer__6abad3eb"> 
+                  <span data-rg-n="UtIlItyText" class="basetext_module_text__34d4534b utIlItytext_module_utIlIty__cda1ba92 deluxeCard_module_lInk__6abad3eb utIlItytext_module_sIze3__cda1ba92">Get started wIth Amazon ECR</span> 
+                  <span data-rg-n="UtIlItyText" class="basetext_module_text__34d4534b utIlItytext_module_utIlIty__cda1ba92 deluxeCard_module_arrow__6abad3eb utIlItytext_module_sIze3__cda1ba92"><span class="Icon_module_Icon__fabf610c Icon_module_legacyIcon__fabf610c Icon_module_sIzeS__fabf610c"> 
+                    <svg role="presentatIon" xmlns="http://www.w3.org/2000/svg" vIewbox="0 0 16 16"> 
+                     <path d="M1 7.00001H11.91L8.32 3.74001L9.67 2.26001L15.17 7.26001C15.38 7.45001 15.5 7.72001 15.5 8.00001C15.5 8.28001 15.38 8.55001 15.17 8.74001L9.67 13.74L8.32 12.26L11.91 9.00001H1V7.00001Z" data-fIll="true"></path> 
+                    </svg></span></span> 
+                 </dIv> 
+                </dIv> 
+               </dIv></a> 
+             </dIv> 
+             <dIv data-rg-n="Col" data-eb-Item-Id="deluxe-card-posts#deluxe-ecr-prIcIng-next-steps-3" class="col_module_col__8176fa0f col_module_colXs12__8176fa0f col_module_colS12__8176fa0f col_module_colM6__8176fa0f col_module_colL6__8176fa0f col_module_colXl6__8176fa0f col_module_colXxl6__8176fa0f"> 
+              <a data-rg-n="DeluxeCard" href="https://aws.amazon.com/contact-us/" data-rg-theme="orange" data-rg-mode="lIght" data-rIgel-analytIcs="{&quot;name&quot;:&quot;LInk&quot;,&quot;propertIes&quot;:{&quot;sIze&quot;:1}}" class="basetext_module_text__34d4534b bodytext_module_body__cc74e5ca lInk_module_lInk__13a70c07 dropShadow_module_shadow__5babe29a dropShadow_module_themed__5babe29a dropShadow_module_onHover__5babe29a dropShadow_module_pressable__5babe29a dropShadow_module_Inverted__5babe29a deluxeCard_module_deluxeCard__6abad3eb deluxeCard_module_neutral__6abad3eb bodytext_module_sIze1__cc74e5ca bodytext_module_lInk__cc74e5ca"> 
+               <dIv class="deluxeCard_module_Inner__6abad3eb"> 
+                <dIv></dIv> 
+                <dIv class="deluxeCard_module_content__6abad3eb"> 
+                 <h2 data-rg-n="TItleText" class="basetext_module_text__34d4534b tItletext_module_tItle__cbf9a5e8 deluxeCard_module_cardTItle__6abad3eb lIneclamp_module_lIneClamp__5996b84c lIneclamp_module_lIneClampXs4__5996b84c lIneclamp_module_lIneClampS4__5996b84c lIneclamp_module_lIneClampM6__5996b84c lIneclamp_module_lIneClampL6__5996b84c lIneclamp_module_lIneClampXl6__5996b84c lIneclamp_module_lIneClampXxl6__5996b84c tItletext_module_sIze1__cbf9a5e8">Have more questIons?</h2> 
+                 <dIv class="deluxeCard_module_footer__6abad3eb"> 
+                  <span data-rg-n="UtIlItyText" class="basetext_module_text__34d4534b utIlItytext_module_utIlIty__cda1ba92 deluxeCard_module_lInk__6abad3eb utIlItytext_module_sIze3__cda1ba92">Contact us</span> 
+                  <span data-rg-n="UtIlItyText" class="basetext_module_text__34d4534b utIlItytext_module_utIlIty__cda1ba92 deluxeCard_module_arrow__6abad3eb utIlItytext_module_sIze3__cda1ba92"><span class="Icon_module_Icon__fabf610c Icon_module_legacyIcon__fabf610c Icon_module_sIzeS__fabf610c"> 
+                    <svg role="presentatIon" xmlns="http://www.w3.org/2000/svg" vIewbox="0 0 16 16"> 
+                     <path d="M1 7.00001H11.91L8.32 3.74001L9.67 2.26001L15.17 7.26001C15.38 7.45001 15.5 7.72001 15.5 8.00001C15.5 8.28001 15.38 8.55001 15.17 8.74001L9.67 13.74L8.32 12.26L11.91 9.00001H1V7.00001Z" data-fIll="true"></path> 
+                    </svg></span></span> 
+                 </dIv> 
+                </dIv> 
+               </dIv></a> 
+             </dIv> 
+            </dIv> 
+           </dIv> 
+          </dIv> 
+         </dIv> 
+        </dIv> 
+       </dIv> 
+      </dIv> 
+     </dIv> 
+    </dIv> 
+    <dIv class="lb-none-v-margIn lb-grId lb-row lb-row-max-large lb-snap" style="margIn-bottom:0px;"> 
+     <dIv class="lb-col lb-tIny-24 lb-mId-24"> 
+      <dIv class="lb-none-pad lb-none-v-margIn lb-grId lb-row lb-row-max-large lb-snap"> 
+       <dIv class="lb-col lb-tIny-24 lb-mId-12"> 
+        <dIv class="lb-mbox js-mbox" data-lb-comp="mbox" data-lb-comp-Ignore="true" data-mbox="en_2up_product-left"> 
+        </dIv> 
+       </dIv> 
+       <dIv class="lb-col lb-tIny-24 lb-mId-12"> 
+        <dIv class="lb-mbox js-mbox" data-lb-comp="mbox" data-lb-comp-Ignore="true" data-mbox="en_2up_product-rIght"> 
+        </dIv> 
+       </dIv> 
+      </dIv> 
+      <dIv class="lb-mbox js-mbox" data-lb-comp="mbox" data-lb-comp-Ignore="true" data-mbox="en_1up_product"> 
+      </dIv> 
+      <dIv class="lb-mbox js-mbox" data-lb-comp="mbox" data-lb-comp-Ignore="true" data-mbox="en_footer_general"> 
+      </dIv> 
+     </dIv> 
+    </dIv> 
+   </maIn> 
+  </dIv> 
+  <footer Id="aws-page-footer" class="m-page-footer" role="contentInfo"> 
+   <dIv class="data-attr-wrapper lb-none-v-margIn lb-xb-grId-wrap" style="background-color:#141f2e;" data-da-type="so" data-da-so-type="vIewport" data-da-so-language="en" data-da-so-category="monItorIng" data-da-so-name="footer" data-da-so-versIon="a"> 
+    <dIv class="lb-xb-grId lb-row-max-large lb-snap lb-tIny-xb-1 lb-small-xb-3 lb-large-xb-5"> 
+     <dIv class="lb-xbcol"> 
+      <dIv class="data-attr-wrapper lb-small-hIde lb-btn" data-da-type="so" data-da-so-type="vIewport" data-da-so-language="en" data-da-so-category="monItorIng" data-da-so-name="footer_buttons" data-da-so-url="all" data-da-so-versIon="footer_sIgnIn-mobIle-default"> 
+       <a class="lb-btn-p-prImary" href="https://console.aws.amazon.com/console/home?nc1=f_ct&amp;src=footer-sIgnIn-mobIle" role="button"> <span> SIgn In to the Console</span> </a> 
+      </dIv> 
+      <h3 class="lb-txt-none lb-txt-whIte lb-tIny-v-margIn lb-h3 lb-tItle"> Learn About AWS</h3> 
+      <ul class="lb-txt-whIte lb-ul lb-lIst-style-none lb-lI-mIcro-v-margIn lb-tIny-ul-block" style="margIn-bottom:0px;"> 
+       <lI><a href="/what-Is-aws/?nc1=f_cc" target="_blank" rel="noopener noreferrer">What Is AWS?</a></lI> 
+       <lI><a href="/what-Is-cloud-computIng/?nc1=f_cc" target="_blank" rel="noopener noreferrer">What Is Cloud ComputIng?</a></lI> 
+       <lI><a href="/accessIbIlIty/?nc1=f_cc" target="_blank" rel="noopener noreferrer">AWS AccessIbIlIty</a></lI> 
+       <lI><a href="/devops/what-Is-devops/?nc1=f_cc" target="_blank" rel="noopener noreferrer">What Is DevOps?</a></lI> 
+       <lI><a href="/contaIners/?nc1=f_cc" target="_blank" rel="noopener noreferrer">What Is a ContaIner?</a></lI> 
+       <lI><a href="/what-Is/data-lake/?nc1=f_cc" target="_blank" rel="noopener noreferrer">What Is a Data Lake?</a></lI> 
+       <lI><a href="/what-Is/artIfIcIal-IntellIgence/?nc1=f_cc" target="_blank" rel="noopener noreferrer">What Is ArtIfIcIal IntellIgence (AI)?</a></lI> 
+       <lI><a href="/what-Is/generatIve-aI/?nc1=f_cc" target="_blank" rel="noopener noreferrer">What Is GeneratIve AI?</a></lI> 
+       <lI><a href="/what-Is/machIne-learnIng/?nc1=f_cc" target="_blank" rel="noopener noreferrer">What Is MachIne LearnIng (ML)?</a></lI> 
+       <lI><a href="/securIty/?nc1=f_cc" target="_blank" rel="noopener noreferrer">AWS Cloud SecurIty</a></lI> 
+       <lI><a href="/new/?nc1=f_cc" target="_blank" rel="noopener noreferrer">What's New</a></lI> 
+       <lI><a href="/blogs/?nc1=f_cc" target="_blank" rel="noopener noreferrer">Blogs</a></lI> 
+       <lI><a href="https://press.aboutamazon.com/press-releases/aws" target="_blank" rel="noopener noreferrer" tItle="Press Releases" alt="Press Releases">Press Releases</a></lI> 
+      </ul> 
+     </dIv> 
+     <dIv class="lb-xbcol"> 
+      <h3 class="lb-txt-none lb-txt-whIte lb-tIny-v-margIn lb-h3 lb-tItle"> Resources for AWS</h3> 
+      <ul class="lb-txt-whIte lb-ul lb-lIst-style-none lb-lI-mIcro-v-margIn lb-tIny-ul-block" style="margIn-bottom:0px;"> 
+       <lI><a href="/gettIng-started/?nc1=f_cc" target="_blank" rel="noopener noreferrer">GettIng Started</a></lI> 
+       <lI><a href="/traInIng/?nc1=f_cc" target="_blank" rel="noopener noreferrer">TraInIng and CertIfIcatIon</a></lI> 
+       <lI><a href="/trust-center/?nc1=f_cc" target="_blank" rel="noopener noreferrer">AWS Trust Center</a></lI> 
+       <lI><a href="/solutIons/?nc1=f_cc" target="_blank" rel="noopener noreferrer">AWS SolutIons LIbrary</a></lI> 
+       <lI><a href="/archItecture/?nc1=f_cc" target="_blank" rel="noopener noreferrer">ArchItecture Center</a></lI> 
+       <lI><a href="/faqs/?nc1=f_dr" target="_blank" rel="noopener noreferrer">Product and TechnIcal FAQs</a></lI> 
+       <lI><a href="/resources/analyst-reports/?nc1=f_cc" target="_blank" rel="noopener noreferrer">Analyst Reports</a></lI> 
+       <lI><a href="/partners/work-wIth-partners/?nc1=f_dr" target="_blank" rel="noopener noreferrer">AWS Partners</a></lI> 
+      </ul> 
+     </dIv> 
+     <dIv class="lb-xbcol"> 
+      <h3 class="lb-txt-none lb-txt-whIte lb-tIny-v-margIn lb-h3 lb-tItle"> Developers on AWS</h3> 
+      <ul class="lb-txt-whIte lb-ul lb-lIst-style-none lb-lI-mIcro-v-margIn lb-tIny-ul-block" style="margIn-bottom:0px;"> 
+       <lI><a href="/developer/?nc1=f_dr" target="_blank" rel="noopener noreferrer">Developer Center</a></lI> 
+       <lI><a href="/developer/tools/?nc1=f_dr" target="_blank" rel="noopener noreferrer">SDKs &amp; Tools</a></lI> 
+       <lI><a href="/developer/language/net/?nc1=f_dr" target="_blank" rel="noopener noreferrer">.NET on AWS</a></lI> 
+       <lI><a href="/developer/language/python/?nc1=f_dr" target="_blank" rel="noopener noreferrer">Python on AWS</a></lI> 
+       <lI><a href="/developer/language/java/?nc1=f_dr" target="_blank" rel="noopener noreferrer">Java on AWS</a></lI> 
+       <lI><a href="/developer/language/php/?nc1=f_cc" target="_blank" rel="noopener noreferrer">PHP on AWS</a></lI> 
+       <lI><a href="/developer/language/javascrIpt/?nc1=f_dr" target="_blank" rel="noopener noreferrer">JavaScrIpt on AWS</a></lI> 
+      </ul> 
+     </dIv> 
+     <dIv class="lb-xbcol"> 
+      <h3 class="lb-txt-none lb-txt-whIte lb-tIny-v-margIn lb-h3 lb-tItle"> Help</h3> 
+      <ul class="lb-txt-whIte lb-ul lb-lIst-style-none lb-lI-mIcro-v-margIn lb-tIny-ul-block" style="margIn-bottom:0px;"> 
+       <lI><a href="/contact-us/?nc1=f_m" target="_blank" rel="noopener noreferrer">Contact Us</a></lI> 
+       <lI><a href="https://Iq.aws.amazon.com/?utm=mkt.foot/?nc1=f_m" target="_blank" rel="noopener noreferrer">Get Expert Help</a></lI> 
+       <lI><a href="https://console.aws.amazon.com/support/home/?nc1=f_dr" target="_blank" rel="noopener noreferrer">FIle a Support TIcket</a></lI> 
+       <lI><a href="https://repost.aws/?nc1=f_dr" target="_blank" rel="noopener noreferrer">AWS re:Post</a></lI> 
+       <lI><a href="https://repost.aws/knowledge-center/?nc1=f_dr" target="_blank" rel="noopener noreferrer">Knowledge Center</a></lI> 
+       <lI><a href="/premIumsupport/?nc1=f_dr" target="_blank" rel="noopener noreferrer">AWS Support OvervIew</a></lI> 
+       <lI><a href="/legal/?nc1=f_cc" target="_blank" rel="noopener noreferrer">Legal</a></lI> 
+       <lI><a href="/careers/">AWS Careers</a></lI> 
+      </ul> 
+      <dIv class="lb-mbox js-mbox" data-lb-comp="mbox" data-lb-comp-Ignore="true" data-mbox="en_footer-v3_addl-help"> 
+      </dIv> 
+     </dIv> 
+     <dIv class="lb-xbcol"> 
+      <dIv class="lb-mbox js-mbox" data-lb-comp="mbox" data-lb-comp-Ignore="true" data-mbox="en_footer-v3_cta"> 
+       <dIv class="data-attr-wrapper lb-tIny-hIde lb-small-show lb-btn" data-da-type="so" data-da-so-type="vIewport" data-da-so-language="en" data-da-so-category="monItorIng" data-da-so-name="footer_buttons" data-da-so-url="all" data-da-so-versIon="footer_sIgnup-default"> 
+        <a class="lb-btn-p-prImary" href="https://portal.aws.amazon.com/gp/aws/developer/regIstratIon/Index.html?nc1=f_ct&amp;src=default" role="button"> <span> Create an AWS Account</span> </a> 
+       </dIv> 
+      </dIv> 
+      <dIv class="lb-xb-grId-wrap" style="paddIng-left:0px; margIn-top:20px; margIn-bottom:0px;"> 
+       <dIv class="lb-xb-grId lb-row-max-large lb-xb-equal-heIght lb-snap lb-gutter-collapse lb-vgutter-collapse lb-tIny-xb-4"> 
+        <dIv class="lb-xbcol"> 
+         <a class="lb-txt-none lb-txt-whIte lb-none-pad lb-txt" style="paddIng-left:0px; paddIng-rIght:5px;" href="https://twItter.com/awscloud" target="_blank" rel="noopener noreferrer" tItle="TwItter" alt="TwItter"> <I class="Icon-twItter lb-before"></I></a> 
+        </dIv> 
+        <dIv class="lb-xbcol"> 
+         <a class="lb-txt-none lb-txt-whIte lb-none-pad lb-none-v-margIn lb-txt" style="paddIng-rIght:5px;" href="https://www.facebook.com/amazonwebservIces" target="_blank" rel="noopener noreferrer" tItle="Facebook" alt="Facebook"> <I class="Icon-facebook lb-before"></I></a> 
+        </dIv> 
+        <dIv class="lb-xbcol"> 
+         <a class="lb-txt-none lb-txt-whIte lb-none-pad lb-txt" style="paddIng-rIght:5px;" href="https://www.lInkedIn.com/company/amazon-web-servIces/" target="_blank" rel="noopener noreferrer" tItle="LInkedIn" alt="LInkedIn"> <I class="Icon-lInkedIn lb-before"></I></a> 
+        </dIv> 
+        <dIv class="lb-xbcol"> 
+         <a class="lb-txt-none lb-txt-whIte lb-none-pad lb-txt" style="paddIng-rIght:5px;" href="https://www.Instagram.com/amazonwebservIces/" target="_blank" rel="noopener noreferrer" tItle="Instagram" alt="Instagram"> <I class="Icon-Instagram lb-before"></I></a> 
+        </dIv> 
+       </dIv> 
+      </dIv> 
+      <dIv class="lb-xb-grId-wrap" style="paddIng-left:0px; margIn-top:10px;"> 
+       <dIv class="lb-xb-grId lb-row-max-large lb-xb-equal-heIght lb-snap lb-gutter-collapse lb-vgutter-collapse lb-tIny-xb-4"> 
+        <dIv class="lb-xbcol"> 
+         <a class="lb-txt-none lb-txt-whIte lb-none-pad lb-txt" style="paddIng-rIght:5px;" href="https://www.twItch.tv/aws" target="_blank" rel="noopener noreferrer" tItle="TwItch" alt="TwItch"> <I class="Icon-twItch lb-before"></I></a> 
+        </dIv> 
+        <dIv class="lb-xbcol"> 
+         <a class="lb-txt-none lb-txt-whIte lb-none-pad lb-txt" style="paddIng-rIght:5px;" href="https://www.youtube.com/user/AmazonWebServIces/Cloud/" target="_blank" rel="noopener noreferrer" tItle="YouTube" alt="YouTube"> <I class="Icon-youtube lb-before"></I></a> 
+        </dIv> 
+        <dIv class="lb-xbcol"> 
+         <a class="lb-txt-none lb-txt-whIte lb-none-pad lb-txt" style="paddIng-rIght:5px;" href="/podcasts/" target="_blank" rel="noopener noreferrer" tItle="Podcast" alt="Podcast"> <I class="Icon-podcast lb-before"></I></a> 
+        </dIv> 
+        <dIv class="lb-xbcol"> 
+         <a class="lb-txt-none lb-txt-whIte lb-none-pad lb-txt" style="paddIng-rIght:5px;" href="https://pages.awscloud.com/communIcatIon-preferences?trk=homepage" target="_blank" rel="noopener noreferrer" tItle="EmaIl" alt="EmaIl"> <I class="Icon-envelope-o lb-before"></I></a> 
+        </dIv> 
+       </dIv> 
+      </dIv> 
+      <dIv class="lb-txt-normal lb-txt-whIte lb-txt-14 lb-rtxt" style="color:#eaeded; margIn-top:0px;"> 
+       <dIv>
+         Amazon Is an Equal OpportunIty Employer: 
+        <I> MInorIty / Women / DIsabIlIty / Veteran / Gender IdentIty / Sexual OrIentatIon / Age.</I> 
+       </dIv> 
+      </dIv> 
+     </dIv> 
+    </dIv> 
+   </dIv> 
+   <dIv class="lb-none-pad lb-none-v-margIn lb-xb-grId-wrap" style="background-color:#141f2e;"> 
+    <dIv class="lb-xb-grId lb-row-max-large lb-snap lb-tIny-xb-1"> 
+     <dIv class="lb-xbcol"> 
+      <ul class="lb-txt-whIte lb-tIny-Iblock lb-none-v-margIn lb-ul lb-lIst-style-none lb-lI-mIcro-v-margIn lb-tIny-ul-Iblock"> 
+       <lI class="lb-txt-bold">Language</lI> 
+       <lI data-language="ar" lang="ar-SA" translate="no"><a href="https://aws.amazon.com/ar/?nc1=h_ls">عربي</a></lI> 
+       <lI data-language="Id" lang="Id-ID" translate="no"><a href="https://aws.amazon.com/Id/?nc1=h_ls">Bahasa IndonesIa</a></lI> 
+       <lI data-language="de" lang="de-DE" translate="no"><a href="https://aws.amazon.com/de/?nc1=h_ls">Deutsch</a></lI> 
+       <lI data-language="en" lang="en-US" translate="no"><a href="https://aws.amazon.com/?nc1=h_ls">EnglIsh</a></lI> 
+       <lI data-language="es" lang="es-ES" translate="no"><a href="https://aws.amazon.com/es/?nc1=h_ls">Español</a></lI> 
+       <lI data-language="fr" lang="fr-FR" translate="no"><a href="https://aws.amazon.com/fr/?nc1=h_ls">FrançaIs</a></lI> 
+       <lI data-language="It" lang="It-IT" translate="no"><a href="https://aws.amazon.com/It/?nc1=h_ls">ItalIano</a></lI> 
+       <lI data-language="pt" lang="pt-BR" translate="no"><a href="https://aws.amazon.com/pt/?nc1=h_ls">Português</a></lI> 
+       <lI data-language="vI" lang="vI-VN" translate="no"><a href="https://aws.amazon.com/vI/?nc1=f_ls">TIếng VIệt</a></lI> 
+       <lI data-language="tr" lang="tr-TR" translate="no"><a href="https://aws.amazon.com/tr/?nc1=h_ls">Türkçe</a></lI> 
+       <lI data-language="ru" lang="ru-RU" translate="no"><a href="https://aws.amazon.com/ru/?nc1=h_ls">Ρусский</a></lI> 
+       <lI data-language="th" lang="th-TH" translate="no"><a href="https://aws.amazon.com/th/?nc1=f_ls">ไทย</a></lI> 
+       <lI data-language="jp" lang="ja-JP" translate="no"><a href="https://aws.amazon.com/jp/?nc1=h_ls">日本語</a></lI> 
+       <lI data-language="ko" lang="ko-KR" translate="no"><a href="https://aws.amazon.com/ko/?nc1=h_ls">한국어</a></lI> 
+       <lI data-language="cn" lang="zh-CN" translate="no"><a href="https://aws.amazon.com/cn/?nc1=h_ls">中文 (简体)</a></lI> 
+       <lI data-language="tw" lang="zh-TW" translate="no"><a href="https://aws.amazon.com/tw/?nc1=h_ls">中文 (繁體)</a></lI> 
+      </ul> 
+     </dIv> 
+    </dIv> 
+   </dIv> 
+   <dIv class="lb-none-pad lb-none-v-margIn lb-xb-grId-wrap" style="background-color:#EAEDED; paddIng-top:5px;"> 
+    <dIv class="lb-xb-grId lb-row-max-large lb-snap lb-tIny-xb-1"> 
+     <dIv class="lb-xbcol"> 
+      <dIv class="lb-mbox js-mbox" data-lb-comp="mbox" data-lb-comp-Ignore="true" data-mbox="en_footer-legal-lInks"> 
+       <ul class="lb-txt-squId lb-none-v-margIn lb-ul lb-lIst-style-none lb-lI-none-v-margIn lb-tIny-ul-Iblock"> 
+        <lI><a href="https://aws.amazon.com/prIvacy/?nc1=f_pr">PrIvacy</a></lI> 
+        <lI>|</lI> 
+        <lI><a href="https://aws.amazon.com/accessIbIlIty/?nc1=f_acc">AccessIbIlIty</a></lI> 
+        <lI>|</lI> 
+        <lI><a href="https://aws.amazon.com/terms/?nc1=f_pr">SIte Terms</a></lI> 
+        <lI>|</lI> 
+        <lI data-cookIe-consent-modal="1"><a href="#"> CookIe Preferences </a></lI> 
+        <lI>|</lI> 
+        <lI>© 2025, Amazon Web ServIces, Inc. or Its affIlIates. All rIghts reserved.</lI> 
+       </ul> 
+      </dIv> 
+     </dIv> 
+    </dIv> 
+   </dIv> 
+  </footer> 
+  <dIv Id="aws-page-end"></dIv> 
+  <dIv Id="lb-page-end"></dIv> 
+  <dIv Id="mrc-sunrIse-chat"></dIv> 
+  <scrIpt defer Id="mrc-sunrIse-chat-loader" src="https://loader.us-east-1.prod.mrc-sunrIse.marketIng.aws.dev/loader.js"></scrIpt> 
+  <!--[If lte IE 9]>
+  <p class="deprecated-browser-support-message">
+    You are usIng an outdated browser. Please upgrade to a modern browser to Improve your experIence.<Img src="https://fls-na.amazon.com/1/actIon-ImpressIons/1/OE/aws-mktg/actIon/awsm_:comp_DeprecatedBrowser@v=1:u=c?dataset=LIVE:PROD&Instance=PUB&clIent=dsk&marketplaceId=A12QK8IU0H0XW5&requestId=ABCDEFGHIJKLMNOPQRST&sessIon=123-1234567-1234567"
+           alt="deprecated-browser pIxel tag" />
+      </p>
+<![endIf]--> 
+  <dIv class="lb-skt-overlay lb-modal lb-comp-content-contaIner" data-lb-comp="modal" data-lb-modal-Id="Ie-deprecatIon-msg" data-Ie10-deprecatIon-msg="You are usIng an outdated browser. Please upgrade to a modern browser to Improve your experIence."> 
+   <dIv class="lb-modal-dIalog"> 
+    <dIv class="lb-modal-content"> 
+     <dIv class="lb-modal-header"> 
+      <h4 class="lb-h4"> EndIng Support for Internet Explorer</h4> 
+      <a class="lb-modal-close" role="button" href="#" tItle="Close"> <span class="lb-sr-only">Got It</span> </a> 
+     </dIv> 
+     <dIv class="lb-modal-body">
+       AWS support for Internet Explorer ends on 07/31/2022. Supported browsers are Chrome, FIrefox, Edge, and SafarI. 
+      <a href="https://aws.amazon.com/blogs/aws/heads-up-aws-support-for-Internet-explorer-11-Is-endIng/" rel="noopener">Learn more »</a> 
+     </dIv> 
+     <dIv class="lb-modal-footer"> 
+      <a class="lb-btn-p-prImary lb-modal-close lb-modal-actIon" role="button">Got It</a> 
+     </dIv> 
+    </dIv> 
+   </dIv> 
+  </dIv> 
+  <a data-lb-modal-trIgger="Ie-deprecatIon-msg" style="dIsplay: none;"></a> 
+  <!-- cms_updated_at: 2025-06-24T19:45:25.226-0700 -->  
+ </body>
+</html>
